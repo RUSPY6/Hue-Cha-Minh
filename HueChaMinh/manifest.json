@@ -1,0 +1,23 @@
+﻿{
+  "guid": "h3vr.tnhtweaker.huechaminh",
+  "version": "1.0.0",
+  "require": "0.4.3",
+  "dependencies": {
+      "h3vr.tnhtweaker.deli": "1.7.7"
+  },
+  "name": "Hue Cha Minh",
+  "description": "Welcome to the jungle! A TnH character utilizing weaponry and equipment from the Indochina/Vietnam Conflicts!",
+  "source_url": "",
+  "authors": [
+    "DootyEnjoyer6"
+  ],
+  "assets": {
+    "patcher": {},
+    "setup": {
+      "HueChaMinh/Sosigs/*sosig*.json": "h3vr.tnhtweaker.deli:sosig",
+	  "HueChaMinh/VaultFiles/*vault*.json": "h3vr.tnhtweaker.deli:vault_file",
+      "HueChaMinh/": "h3vr.tnhtweaker.deli:character"
+    },
+    "runtime": {}
+  }
+}

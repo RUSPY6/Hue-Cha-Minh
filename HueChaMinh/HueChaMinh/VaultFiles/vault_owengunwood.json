@@ -1,0 +1,83 @@
+{
+  "FileName": "vault_owengunwood",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -2.0,
+  "SpeedForward": 2.0,
+  "SpringStiffness": 120.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": 71.4,
+      "ModeType": "Safe",
+      "BurstAmount": -1
+    },
+    {
+      "SelectorPosition": -49.5,
+      "ModeType": "FullAuto",
+      "BurstAmount": -1
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "potatoesOwen",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "potatoesOwenStockWood",
+      "PosOffset": {
+        "x": 0.003299711,
+        "y": 0.006400106,
+        "z": -0.09349985
+      },
+      "OrientationForward": {
+        "x": -5.96046235E-08,
+        "y": -2.98023117E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -8.881778E-16,
+        "y": 1.0,
+        "z": 2.98023117E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    }
+  ]
+}
