@@ -1,7 +1,7 @@
 ﻿{
     "name": "Hue_Cha_Minh",
     "version_number": "1.0.0",
-    "website_url": "",
+    "website_url": "https://github.com/RUSPY6/Hue-Cha-Minh",
     "description": "Welcome to the jungle! A TnH character utilizing weaponry and equipment from the Indochina/Vietnam Conflicts!",
     "dependencies": [
         "DeliCollective-Deli-0.4.3",
