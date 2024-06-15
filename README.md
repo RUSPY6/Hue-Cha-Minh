@@ -1,4 +1,4 @@
-# **Huế Chả Minh**
+﻿# **Huế Chả Minh**
 ___
 ### Welcome To The Jungle!
 Huế Chả Minh is a Take n' Hold character that makes full utilization of the diverse weaponry and equipment used in the Indochina/Vietnam conflicts via vanilla and modded content.
@@ -111,3 +111,5 @@ Instead of a single lootpool for each category of equipment, lootpools are inste
 - [Shampooh's Better Bullet Cracks](https://h3vr.thunderstore.io/package/Shampooh/Better_Bullet_Cracks/)
 - [Smidgeon's Mag-Boop](https://h3vr.thunderstore.io/package/Smidgeon/MagBoop/)
 - [Smidgeon's Stovepipe Malfunctions](https://h3vr.thunderstore.io/package/Smidgeon/Stovepipe/2.0.3/)
+
+###### ***(Do you have feedback, bug reports, or questions regarding me or my mods? Please, friend and DM my Discord, "ruspy6", or ping "DootyEnjoyer6" in the H3VR Homebrew Discord Server!)***
