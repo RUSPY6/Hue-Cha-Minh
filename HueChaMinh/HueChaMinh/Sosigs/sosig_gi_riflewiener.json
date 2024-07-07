@@ -245,7 +245,7 @@
   ],
   "SecondaryChance": 0.9,
   "TertiaryChance": 0.2,
-  "DroppedLootChance": 0.1,
+  "DroppedLootChance": 0.05,
   "DroppedObjectPool": {
     "Category": "Attachment",
     "Rarity": 0.0,
