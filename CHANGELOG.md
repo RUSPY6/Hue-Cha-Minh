@@ -1,6 +1,6 @@
 # **Changelog**
 
-### **v1.1.0 (2024-7-6)**
+### **v1.1.0 (2024-7-7)**
 Balancing:
 - Billiam's C1903 no longer spawns with carbine magazine
 - Semi-auto battle rifles now appear in both the 3rd and 4th takes
