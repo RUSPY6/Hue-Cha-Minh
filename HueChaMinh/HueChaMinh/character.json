@@ -3,7 +3,7 @@
   "Description": "Weaponry and equipment loadouts of the Indochina/Vietnam conflicts.\nSpawns with a surplus firearm and scavenged melee weapon.",
   "CharacterGroup": 1,
   "TableID": "HueChaMinh",
-  "StartingTokens": 0,
+  "StartingTokens": 1,
   "ForceAllAgentWeapons": false,
   "ForceDisableOutfitFunctionality": false,
   "UsesPurchasePriceIncrement": true,
@@ -31,7 +31,6 @@
     "12GaugeShellDragonsBreath",
     "20GaugeShellDragonsBreath",
 	"Cartridge_16Gauge_DragonsBreath",
-	"Cartridge_40x46Grenade_M781",
 	"Cartridge_40x46Grenade_X1776",
 	"Cartridge_40x46Grenade_X214",
 	"Cartridge_40x46Grenade_X477",
@@ -102,7 +101,11 @@
       "ClipBlacklist": [],
       "ClipWhitelist": [],
       "RoundBlacklist": [
+        "Cartridge_40x46Grenade_M576",
+		"Cartridge_40x46Grenade_M651",
+		"Cartridge_40x46Grenade_M781",
 	    "ftw.ammo.40whitesmoke",
+		"ftw.ammo.40practice",
 		"ftw.ammo.paraflare",
 		"ftw.ammo.cluster"
 	  ],
@@ -115,7 +118,11 @@
       "ClipBlacklist": [],
       "ClipWhitelist": [],
       "RoundBlacklist": [
+        "Cartridge_40x46Grenade_M576",
+		"Cartridge_40x46Grenade_M651",
+		"Cartridge_40x46Grenade_M781",
 	    "ftw.ammo.40whitesmoke",
+		"ftw.ammo.40practice",
 		"ftw.ammo.paraflare",
 		"ftw.ammo.cluster"
 	  ],
@@ -128,7 +135,28 @@
       "ClipBlacklist": [],
       "ClipWhitelist": [],
       "RoundBlacklist": [
+        "Cartridge_40x46Grenade_M576",
+		"Cartridge_40x46Grenade_M651",
+		"Cartridge_40x46Grenade_M781",
 	    "ftw.ammo.40whitesmoke",
+		"ftw.ammo.40practice",
+		"ftw.ammo.paraflare",
+		"ftw.ammo.cluster"
+	  ],
+      "RoundWhitelist": []
+    },
+	{
+      "FirearmID": "XM148_553223",
+      "MagazineBlacklist": [],
+      "MagazineWhitelist": [],
+      "ClipBlacklist": [],
+      "ClipWhitelist": [],
+      "RoundBlacklist": [
+        "Cartridge_40x46Grenade_M576",
+		"Cartridge_40x46Grenade_M651",
+		"Cartridge_40x46Grenade_M781",
+	    "ftw.ammo.40whitesmoke",
+		"ftw.ammo.40practice",
 		"ftw.ammo.paraflare",
 		"ftw.ammo.cluster"
 	  ],
@@ -1419,6 +1447,17 @@
 		"FTW.Gun.20rnd",
 		"FTW.Gun.30rnd"
 	  ],
+      "MagazineWhitelist": [],
+      "ClipBlacklist": [],
+      "ClipWhitelist": [],
+      "RoundBlacklist": [],
+      "RoundWhitelist": []
+    },
+    {
+      "FirearmID": "FN1903.Billiam",
+      "MagazineBlacklist": [
+		"FN1903CarbineMag.Billiam"
+      ],
       "MagazineWhitelist": [],
       "ClipBlacklist": [],
       "ClipWhitelist": [],
@@ -2917,7 +2956,8 @@
 		  "M1897Trench",
 		  "Hammerless520",
 		  "ShgTubM10A",
-		  "W1912"
+		  "W1912",
+		  "I37Classic"
 		],
         "Eras": [],
         "Sets": [
@@ -2938,47 +2978,6 @@
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
         "SubGroups": [
-		  {
-			"Category": "Firearm",
-			"Rarity": 1.0,
-			"RequiredQuest": null,
-			"ItemsToSpawn": 1,
-			"MinAmmoCapacity": 1,
-			"MaxAmmoCapacity": 9,
-			"NumMagsSpawned": 3,
-			"NumClipsSpawned": 3,
-			"NumRoundsSpawned": 8,
-			"SpawnMagAndClip": false,
-			"BespokeAttachmentChance": 0.5,
-			"IsCompatibleMagazine": false,
-			"AutoPopulateGroup": false,
-			"ForceSpawnAllSubPools": false,
-			"IDOverride": [
-			  "I37Classic",
-			  "IthacaM37.Billiam",
-			  "vault_ithaca37trench",
-			  "vault_ithaca37duckbill"
-			],
-			"Eras": [],
-			"Sets": [
-			  "Real"
-			],
-			"Sizes": [],
-			"Actions": [],
-			"Modes": [],
-			"ExcludedModes": [],
-			"FeedOptions": [],
-			"MountsAvailable": [],
-			"RoundPowers": [],
-			"Features": [],
-			"MeleeStyles": [],
-			"MeleeHandedness": [],
-			"MountTypes": [],
-			"PowerupTypes": [],
-			"ThrownTypes": [],
-			"ThrownDamageTypes": [],
-			"SubGroups": []
-		  },
 		  {
 			"Category": "Firearm",
 			"Rarity": 1.0,
@@ -3214,7 +3213,7 @@
       "TokenCost": 6,
       "TokenCostLimited": 3,
       "MinLevelAppears": 1,
-      "MaxLevelAppears": 1,
+      "MaxLevelAppears": 2,
       "SpawnsInSmallCase": false,
       "SpawnsInLargeCase": false,
       "PrimaryGroup": {
@@ -3269,7 +3268,7 @@
       "TokenCost": 6,
       "TokenCostLimited": 3,
       "MinLevelAppears": 1,
-      "MaxLevelAppears": 1,
+      "MaxLevelAppears": 2,
       "SpawnsInSmallCase": false,
       "SpawnsInLargeCase": false,
       "PrimaryGroup": {
@@ -3520,7 +3519,7 @@
       "TokenCost": 8,
       "TokenCostLimited": 6,
       "MinLevelAppears": 2,
-      "MaxLevelAppears": 2,
+      "MaxLevelAppears": 3,
       "SpawnsInSmallCase": false,
       "SpawnsInLargeCase": false,
       "PrimaryGroup": {
@@ -3652,7 +3651,7 @@
       "TokenCost": 8,
       "TokenCostLimited": 6,
       "MinLevelAppears": 2,
-      "MaxLevelAppears": 2,
+      "MaxLevelAppears": 3,
       "SpawnsInSmallCase": false,
       "SpawnsInLargeCase": false,
       "PrimaryGroup": {
@@ -3891,7 +3890,12 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-		  "Stoner63AR"
+		  "C601",
+		  "M16",
+		  "M16A1",
+		  "Stoner63AR",
+		  "vault_xm117e2",
+		  "vault_gau-5aa"
 		],
         "Eras": [],
         "Sets": [
@@ -3911,51 +3915,8 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": [
-		  {
-			"Category": "Firearm",
-			"Rarity": 1,
-			"RequiredQuest": null,
-			"ItemsToSpawn": 1,
-			"MinAmmoCapacity": 20,
-			"MaxAmmoCapacity": 30,
-			"NumMagsSpawned": 3,
-			"NumClipsSpawned": 3,
-			"NumRoundsSpawned": 8,
-			"SpawnMagAndClip": false,
-			"BespokeAttachmentChance": 0.5,
-			"IsCompatibleMagazine": false,
-			"AutoPopulateGroup": false,
-			"ForceSpawnAllSubPools": false,
-			"IDOverride": [
-			  "C601",
-			  "M16",
-			  "M16A1",
-			  "vault_xm117e2",
-			  "vault_gau-5aa"
-			],
-			"Eras": [],
-			"Sets": [
-			  "Real"
-			],
-			"Sizes": [],
-			"Actions": [],
-			"Modes": [],
-			"ExcludedModes": [],
-			"FeedOptions": [],
-			"MountsAvailable": [],
-			"RoundPowers": [],
-			"Features": [],
-			"MeleeStyles": [],
-			"MeleeHandedness": [],
-			"MountTypes": [],
-			"PowerupTypes": [],
-			"ThrownTypes": [],
-			"ThrownDamageTypes": [],
-			"SubGroups": []
-		  }
-		]
-      },
+        "SubGroups": []
+	  },
       "BackupGroup": null
     },
     {
@@ -4936,7 +4897,7 @@
     },
     {
 	  "Type": "Equipment",
-      "IconName": "west_m203gl.png",
+      "IconName": "west_m203grenadelauncher.png",
       "TokenCost": 6,
       "TokenCostLimited": 6,
       "MinLevelAppears": 3,
@@ -5691,10 +5652,10 @@
       "MaxPanels": 1,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
-      "MinTokensPerSupply": 1,
+      "MinTokensPerSupply": 2,
       "MaxTokensPerSupply": 2,
-      "BoxTokenChance": 0.5,
-      "BoxHealthChance": 0.5,
+      "BoxTokenChance": 100.0,
+      "BoxHealthChance": 0.3,
       "PossiblePanelTypes": [
         "AmmoReloader",
         "MagDuplicator",
@@ -5773,7 +5734,7 @@
       "MinTokensPerSupply": 2,
       "MaxTokensPerSupply": 2,
       "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.3,
+      "BoxHealthChance": 0.25,
       "PossiblePanelTypes": [
         "AmmoReloader",
         "MagDuplicator",
@@ -5878,7 +5839,7 @@
       "MinTokensPerSupply": 2,
       "MaxTokensPerSupply": 2,
       "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
+      "BoxHealthChance": 0.25,
       "PossiblePanelTypes": [
         "AmmoReloader",
         "MagDuplicator",
@@ -6010,7 +5971,7 @@
       "MinTokensPerSupply": 2,
       "MaxTokensPerSupply": 2,
       "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
+      "BoxHealthChance": 0.2,
       "PossiblePanelTypes": [
         "AmmoReloader",
         "MagDuplicator",
@@ -6161,7 +6122,7 @@
       "MinTokensPerSupply": 3,
       "MaxTokensPerSupply": 3,
       "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
+      "BoxHealthChance": 0.2,
       "PossiblePanelTypes": [
         "AmmoReloader",
         "MagDuplicator",
@@ -6272,8 +6233,8 @@
 			"GI_Machinegunner"
           ],
           "LeaderType": "GI_Officer",
-          "PatrolSize": 6,
-          "MaxPatrols": 3,
+          "PatrolSize": 5,
+          "MaxPatrols": 2,
           "MaxPatrolsLimited": 2,
           "PatrolCadence": 45.0,
           "PatrolCadenceLimited": 90.0,
