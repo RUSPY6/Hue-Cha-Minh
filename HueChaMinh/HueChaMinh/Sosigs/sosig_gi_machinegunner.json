@@ -244,7 +244,7 @@
   ],
   "SecondaryChance": 1.0,
   "TertiaryChance": 1.0,
-  "DroppedLootChance": 0.1,
+  "DroppedLootChance": 0.05,
   "DroppedObjectPool": {
     "Category": "Firearm",
     "Rarity": 0.0,
