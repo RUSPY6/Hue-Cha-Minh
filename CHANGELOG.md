@@ -9,8 +9,8 @@ Balancing:
 - Decreased drop rates for Regen/Heath Orbs
 
 Metadata:
-- Added my RS2:V themed mods and NGA's Pause Button, Gun Var Configs, Reload Animations, and Oopmh Factor to the optional section
-- Added functioning GitHub link to readme
+- Added my RS2:V themed mods and NGA's Pause Button, GunVar Configs, Reload Animations, and Oopmh Factor to the optional section
+- Added functioning GitHub link to manifests
 - Fixed broken recommended and optional mod links
 - Fixed changelog formatting
 - Fixed M203 Grenade Launcher thumbnail
