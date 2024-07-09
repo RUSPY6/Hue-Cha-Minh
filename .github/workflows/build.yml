@@ -1,14 +1,13 @@
 name: Build Character
-
 on:
   push:
     branches: [main]
-
 jobs:
   build:
     runs-on: ubuntu latest
     steps:
       - uses: actions/checkout@v2
-      - name: Build Character
+      - name: Zip
         run: |
           mkdir DootyEnjoyer6-Hue_Cha_Minh
+          cd
