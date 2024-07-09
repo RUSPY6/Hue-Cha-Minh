@@ -17,6 +17,10 @@ jobs:
         run: |
           mkdir DootyEnjoyer6-Hue_Cha_Minh
           cp manifest.json DootyEnjoyer6-Hue_Cha_Minh/
+          cp CHANGELOG.md DootyEnjoyer6-Hue_Cha_Minh/
+          cp README.md DootyEnjoyer6-Hue_Cha_Minh/
+          cp icon.png DootyEnjoyer6-Hue_Cha_Minh/
+          cp HueChaMinh DootyEnjoyer6-Hue_Cha_Minh/
           ls
 
       - name: Package Files
