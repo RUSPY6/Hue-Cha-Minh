@@ -9,5 +9,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: Build
         run: |
+          cd
           mkdir DootyEnjoyer6-Hue_Cha_Minh
           cd
