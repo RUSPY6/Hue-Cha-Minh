@@ -1,1 +1,19 @@
+name: Build Character
 
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Package
+        run: |
+          mkdir DootyEnjoyer6-Hue_Cha_Minh
+          cp manifest.json DootyEnjoyer6-Hue_Cha_Minh/
