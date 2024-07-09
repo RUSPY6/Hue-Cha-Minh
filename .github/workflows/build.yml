@@ -13,7 +13,15 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v2
 
-      - name: Package
+      - name: Package Character
         run: |
           mkdir DootyEnjoyer6-Hue_Cha_Minh
           cp manifest.json DootyEnjoyer6-Hue_Cha_Minh/
+          ls
+
+      - name: Package Files
+        uses: actions/upload-artifact@v2
+        with:
+          name: DootyEnjoyer6-Hue_Cha_Minh
+          path: DootyEnjoyer6-Hue_Cha_Minh
+          
