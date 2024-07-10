@@ -21,7 +21,7 @@ jobs:
           cp README.md DootyEnjoyer6-Hue_Cha_Minh/
           cp icon.png DootyEnjoyer6-Hue_Cha_Minh/
           zip -rj HueChaMinh.zip HueChaMinh/manifest.json
-          zip -ur HueChaMinh.zip HueChaMinh/HueChaMinh
+          zip -urj HueChaMinh.zip HueChaMinh/HueChaMinh
           mv HueChaMinh.zip HueChaMinh.deli
           mv HueChaMinh.deli DootyEnjoyer6-Hue_Cha_Minh/
           ls
