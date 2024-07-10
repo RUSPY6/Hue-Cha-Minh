@@ -23,7 +23,7 @@ jobs:
           cp HueChaMinh.deli DootyEnjoyer6-Hue_Cha_Minh/
           ls
 
-      - name: Package Files
+      - name: Package Thunderstore
         uses: actions/upload-artifact@v2
         with:
           name: DootyEnjoyer6-Hue_Cha_Minh
