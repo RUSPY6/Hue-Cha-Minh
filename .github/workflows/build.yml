@@ -15,15 +15,16 @@ jobs:
 
       - name: Package Character
         run: |
+          cd Hue-Cha-Minh/
           mkdir DootyEnjoyer6-Hue_Cha_Minh
-          cp manifest.json DootyEnjoyer6-Hue_Cha_Minh/
-          cp CHANGELOG.md DootyEnjoyer6-Hue_Cha_Minh/
-          cp README.md DootyEnjoyer6-Hue_Cha_Minh/
-          cp icon.png DootyEnjoyer6-Hue_Cha_Minh/
-          cd HueChaMinh
+          cp manifest.json Hue-Cha-Minh/DootyEnjoyer6-Hue_Cha_Minh/
+          cp CHANGELOG.md Hue-Cha-Minh/DootyEnjoyer6-Hue_Cha_Minh/
+          cp README.md Hue-Cha-Minh/DootyEnjoyer6-Hue_Cha_Minh/
+          cp icon.png Hue-Cha-Minh/DootyEnjoyer6-Hue_Cha_Minh/
+          cd Hue-Cha-Minh/HueChaMinh
           zip -r HueChaMinh.zip HueChaMinh
           mv HueChaMinh.zip HueChaMinh.deli
-          mv HueChaMinh.deli DootyEnjoyer6-Hue_Cha_Minh/
+          mv HueChaMinh.deli Hue-Cha-Minh/DootyEnjoyer6-Hue_Cha_Minh/
           ls
 
       - name: Upload Package
