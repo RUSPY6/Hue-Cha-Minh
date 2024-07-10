@@ -23,7 +23,7 @@ jobs:
           cd HueChaMinh/
           zip -r HueChaMinh.zip HueChaMinh
           mv HueChaMinh.zip HueChaMinh.deli
-          mv HueChaMinh.deli DootyEnjoyer6-Hue_Cha_Minh/
+          mv HueChaMinh.deli /DootyEnjoyer6-Hue_Cha_Minh/
           ls
 
       - name: Upload Package
