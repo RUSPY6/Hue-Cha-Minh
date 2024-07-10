@@ -23,6 +23,7 @@ jobs:
           cd HueChaMinh
           zip -r HueChaMinh.zip HueChaMinh
           mv HueChaMinh.zip HueChaMinh.deli
+          cd
           mv HueChaMinh.deli DootyEnjoyer6-Hue_Cha_Minh/
           ls
 
