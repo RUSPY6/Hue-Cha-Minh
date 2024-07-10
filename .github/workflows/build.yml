@@ -20,7 +20,7 @@ jobs:
           cp CHANGELOG.md DootyEnjoyer6-Hue_Cha_Minh/
           cp README.md DootyEnjoyer6-Hue_Cha_Minh/
           cp icon.png DootyEnjoyer6-Hue_Cha_Minh/
-          cd path && zip -jr HueChaMinh.zip *
+          zip -jr HueChaMinh.zip DootyEnjoyer6-Hue_Cha_Minh/HueChaMinh/manifest.json
           mv HueChaMinh.zip HueChaMinh.deli
           mv HueChaMinh.deli DootyEnjoyer6-Hue_Cha_Minh/
           ls
