@@ -1,5 +1,7 @@
 # **Changelog**
 
+### **v1.2.0 (2024-#-#)**
+
 ### **v1.1.0 (2024-7-7)**
 Balancing:
 - Billiam's C1903 no longer spawns with carbine magazine
