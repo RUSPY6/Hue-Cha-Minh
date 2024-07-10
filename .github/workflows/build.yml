@@ -15,7 +15,6 @@ jobs:
 
       - name: Package Character
         run: |
-          cd /
           mkdir DootyEnjoyer6-Hue_Cha_Minh
           cp manifest.json DootyEnjoyer6-Hue_Cha_Minh/
           cp CHANGELOG.md DootyEnjoyer6-Hue_Cha_Minh/
