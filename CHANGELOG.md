@@ -1,6 +1,9 @@
 # **Changelog**
 
 ### **v1.2.0 (2024-#-#)**
+Content:
+- Added Billiam's M50 and M55 Reisings (Western SMGs), K98k Obrez (Starting Weapons), and PzB 39 (Eastern Bolt Action AT rifles).
+- Added Volksterism's Bundle Grenade (Combat Grenades)
 
 ### **v1.1.0 (2024-7-7)**
 Balancing:
