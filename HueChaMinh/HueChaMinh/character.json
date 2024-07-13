@@ -1813,7 +1813,8 @@
 			"Dev_Type99",
 			"Arisaka99.Billiam",
 			"Murata.Billiam",
-			"MAS36.Billiam"
+			"MAS36.Billiam",
+            "K98KObrez.Billiam"
 		  ],
           "Eras": [],
           "Sets": [
@@ -3508,6 +3509,45 @@
 			"ThrownTypes": [],
 			"ThrownDamageTypes": [],
 			"SubGroups": []
+		  },
+		  {
+			"Category": "Firearm",
+			"Rarity": 0.5,
+			"RequiredQuest": null,
+			"ItemsToSpawn": 1,
+			"MinAmmoCapacity": 30,
+			"MaxAmmoCapacity": 40,
+			"NumMagsSpawned": 3,
+			"NumClipsSpawned": 3,
+			"NumRoundsSpawned": 8,
+			"SpawnMagAndClip": false,
+			"BespokeAttachmentChance": 0.5,
+			"IsCompatibleMagazine": false,
+			"AutoPopulateGroup": false,
+			"ForceSpawnAllSubPools": false,
+			"IDOverride": [
+			  "M50.Billiam",
+			  "M55.Billiam"
+			],
+			"Eras": [],
+			"Sets": [
+			  "Real"
+			],
+			"Sizes": [],
+			"Actions": [],
+			"Modes": [],
+			"ExcludedModes": [],
+			"FeedOptions": [],
+			"MountsAvailable": [],
+			"RoundPowers": [],
+			"Features": [],
+			"MeleeStyles": [],
+			"MeleeHandedness": [],
+			"MountTypes": [],
+			"PowerupTypes": [],
+			"ThrownTypes": [],
+			"ThrownDamageTypes": [],
+			"SubGroups": []
 		  }
 		]
       },
@@ -4517,6 +4557,7 @@
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
           "ftw.gun.ptrd",
+          "PZB39.Billiam",
           "potatoesBoysATGun"
 		],
         "Eras": [],
@@ -5517,7 +5558,8 @@
 		  "PinnedGrenadeM67",
 		  "PinnedGrenadeMkVGasGrenade",
 		  "Molotov",
-		  "ftw.grenade.m14Incend"
+		  "ftw.grenade.m14Incend",
+          "Volksterism_BundleGrenade"
 		],
         "Eras": [],
         "Sets": [
