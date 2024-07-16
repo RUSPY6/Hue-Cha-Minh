@@ -2,8 +2,12 @@
 
 ### **v1.2.0 (2024-#-#)**
 Content:
-- Added Billiam's M50 and M55 Reisings (Western SMGs), K98k Obrez (Starting Weapons), and PzB 39 (Eastern Bolt Action AT rifles).
-- Added Volksterism's Bundle Grenade (Combat Grenades)
+- Added Billiam's M50 and M55 Reisings *(Western SMGs)*, K98k Obrez *(Starting Weapons)*, and PzB 39 *(Eastern Bolt Action AT rifles)* to their respective equipment pools.
+- Added Volksterism's Bundle Grenade *(Combat Grenades)*
+
+Metadata:
+- Added the new implemented mods in Recommended Mods section
+- Added expanding drop down lists for the Recommended and Optional mod links (Click on them to show the links!)
 
 ### **v1.1.0 (2024-7-7)**
 Balancing:
