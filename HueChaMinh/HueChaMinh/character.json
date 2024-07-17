@@ -1530,15 +1530,15 @@
     "MountsAvailable": [],
     "RoundPowers": [],
     "Features": [
-      "Reflex",
-	  "IronSight",
-	  "Magnification"
+			"Reflex",
+			"IronSight",
+			"Magnification"
     ],
     "MeleeStyles": [],
     "MeleeHandedness": [],
     "MountTypes": [
       "Bespoke",
-	  "Russian"
+			"Russian"
     ],
     "PowerupTypes": [],
     "ThrownTypes": [],
@@ -1584,8 +1584,8 @@
           "Rarity": 1.0,
           "RequiredQuest": null,
           "ItemsToSpawn": 1,
-          "MinAmmoCapacity": 6,
-          "MaxAmmoCapacity": 10,
+          "MinAmmoCapacity": 1,
+          "MaxAmmoCapacity": 20,
           "NumMagsSpawned": 3,
           "NumClipsSpawned": 3,
           "NumRoundsSpawned": 10,
@@ -2624,7 +2624,7 @@
       "Type": "Firearm",
       "IconName": "east_sapistol.png",
       "TokenCost": 3,
-      "TokenCostLimited": 2,
+      "TokenCostLimited": 3,
       "MinLevelAppears": 0,
       "MaxLevelAppears": 1,
       "SpawnsInSmallCase": false,
@@ -2716,7 +2716,7 @@
 	  "Type": "Firearm",
       "IconName": "west_sapistol.png",
       "TokenCost": 3,
-      "TokenCostLimited": 2,
+      "TokenCostLimited": 3,
       "MinLevelAppears": 0,
       "MaxLevelAppears": 1,
       "SpawnsInSmallCase": false,
@@ -2807,7 +2807,7 @@
 	  "Type": "Firearm",
       "IconName": "east_fapistol.png",
       "TokenCost": 3,
-      "TokenCostLimited": 2,
+      "TokenCostLimited": 3,
       "MinLevelAppears": 0,
       "MaxLevelAppears": 1,
       "SpawnsInSmallCase": false,
@@ -2933,7 +2933,7 @@
       "Type": "Firearm",
       "IconName": "west_pashotgun.png",
       "TokenCost": 3,
-      "TokenCostLimited": 2,
+      "TokenCostLimited": 3,
       "MinLevelAppears": 0,
       "MaxLevelAppears": 1,
       "SpawnsInSmallCase": false,
@@ -2947,7 +2947,7 @@
         "MaxAmmoCapacity": 9,
         "NumMagsSpawned": 3,
         "NumClipsSpawned": 3,
-        "NumRoundsSpawned": 8,
+        "NumRoundsSpawned": 12,
         "SpawnMagAndClip": false,
         "BespokeAttachmentChance": 0.5,
         "IsCompatibleMagazine": false,
@@ -2988,7 +2988,7 @@
 			"MaxAmmoCapacity": 9,
 			"NumMagsSpawned": 3,
 			"NumClipsSpawned": 3,
-			"NumRoundsSpawned": 8,
+			"NumRoundsSpawned": 12,
 			"SpawnMagAndClip": false,
 			"BespokeAttachmentChance": 0.5,
 			"IsCompatibleMagazine": false,
@@ -3026,7 +3026,7 @@
       "Type": "Firearm",
       "IconName": "west_sashotgun.png",
       "TokenCost": 4,
-      "TokenCostLimited": 3,
+      "TokenCostLimited": 4,
       "MinLevelAppears": 1,
       "MaxLevelAppears": 2,
       "SpawnsInSmallCase": false,
@@ -3040,7 +3040,7 @@
         "MaxAmmoCapacity": 6,
         "NumMagsSpawned": 3,
         "NumClipsSpawned": 3,
-        "NumRoundsSpawned": 8,
+        "NumRoundsSpawned": 12,
         "SpawnMagAndClip": false,
         "BespokeAttachmentChance": 0.5,
         "IsCompatibleMagazine": false,
@@ -3078,7 +3078,7 @@
         "MaxAmmoCapacity": 6,
         "NumMagsSpawned": 3,
         "NumClipsSpawned": 3,
-        "NumRoundsSpawned": 8,
+        "NumRoundsSpawned": 12,
         "SpawnMagAndClip": false,
         "BespokeAttachmentChance": 0.5,
         "IsCompatibleMagazine": false,
@@ -3112,7 +3112,7 @@
 	  "Type": "Firearm",
       "IconName": "east_sacarbine.png",
       "TokenCost": 4,
-      "TokenCostLimited": 3,
+      "TokenCostLimited": 4,
       "MinLevelAppears": 1,
       "MaxLevelAppears": 1,
       "SpawnsInSmallCase": false,
@@ -3162,7 +3162,7 @@
 	  "Type": "Firearm",
       "IconName": "west_sacarbine.png",
       "TokenCost": 4,
-      "TokenCostLimited": 3,
+      "TokenCostLimited": 4,
       "MinLevelAppears": 1,
       "MaxLevelAppears": 1,
       "SpawnsInSmallCase": false,
@@ -3212,7 +3212,7 @@
 	  "Type": "Firearm",
       "IconName": "east_smg.png",
       "TokenCost": 6,
-      "TokenCostLimited": 3,
+      "TokenCostLimited": 6,
       "MinLevelAppears": 1,
       "MaxLevelAppears": 2,
       "SpawnsInSmallCase": false,
@@ -3267,7 +3267,7 @@
       "Type": "Firearm",
       "IconName": "west_smg.png",
       "TokenCost": 6,
-      "TokenCostLimited": 3,
+      "TokenCostLimited": 6,
       "MinLevelAppears": 1,
       "MaxLevelAppears": 2,
       "SpawnsInSmallCase": false,
@@ -3557,7 +3557,7 @@
 	  "Type": "Firearm",
       "IconName": "east_sabattlerifle.png",
       "TokenCost": 8,
-      "TokenCostLimited": 6,
+      "TokenCostLimited": 8,
       "MinLevelAppears": 2,
       "MaxLevelAppears": 3,
       "SpawnsInSmallCase": false,
@@ -3689,7 +3689,7 @@
       "Type": "Firearm",
       "IconName": "west_sabattlerifle.png",
       "TokenCost": 8,
-      "TokenCostLimited": 6,
+      "TokenCostLimited": 8,
       "MinLevelAppears": 2,
       "MaxLevelAppears": 3,
       "SpawnsInSmallCase": false,
@@ -3739,7 +3739,7 @@
       "Type": "Firearm",
       "IconName": "east_lassaultrifle.png",
       "TokenCost": 10,
-      "TokenCostLimited": 6,
+      "TokenCostLimited": 10,
       "MinLevelAppears": 2,
       "MaxLevelAppears": 3,
       "SpawnsInSmallCase": false,
@@ -3909,7 +3909,7 @@
 	  "Type": "Firearm",
       "IconName": "west_lassaultrifle.png",
       "TokenCost": 10,
-      "TokenCostLimited": 6,
+      "TokenCostLimited": 10,
       "MinLevelAppears": 2,
       "MaxLevelAppears": 3,
       "SpawnsInSmallCase": false,
@@ -3963,7 +3963,7 @@
 	  "Type": "Firearm",
       "IconName": "east_fabattlerifle.png",
       "TokenCost": 10,
-      "TokenCostLimited": 8,
+      "TokenCostLimited": 10,
       "MinLevelAppears": 3,
       "MaxLevelAppears": 4,
       "SpawnsInSmallCase": false,
@@ -4013,7 +4013,7 @@
       "Type": "Firearm",
       "IconName": "west_fabattlerifle.png",
       "TokenCost": 10,
-      "TokenCostLimited": 8,
+      "TokenCostLimited": 10,
       "MinLevelAppears": 3,
       "MaxLevelAppears": 4,
       "SpawnsInSmallCase": false,
@@ -4063,7 +4063,7 @@
       "Type": "Firearm",
       "IconName": "east_hassaultrifle.png",
       "TokenCost": 12,
-      "TokenCostLimited": 8,
+      "TokenCostLimited": 12,
       "MinLevelAppears": 3,
       "MaxLevelAppears": 4,
       "SpawnsInSmallCase": false,
@@ -4151,7 +4151,7 @@
       "Type": "Firearm",
       "IconName": "west_hbattlerifle.png",
       "TokenCost": 12,
-      "TokenCostLimited": 10,
+      "TokenCostLimited": 12,
       "MinLevelAppears": 3,
       "MaxLevelAppears": 4,
       "SpawnsInSmallCase": false,
@@ -4201,7 +4201,7 @@
       "Type": "Firearm",
       "IconName": "east_lmmachinegun.png",
       "TokenCost": 12,
-      "TokenCostLimited": 10,
+      "TokenCostLimited": 12,
       "MinLevelAppears": 3,
       "MaxLevelAppears": 99,
       "SpawnsInSmallCase": false,
@@ -4258,7 +4258,7 @@
       "Type": "Firearm",
       "IconName": "east_lmachinegun.png",
       "TokenCost": 14,
-      "TokenCostLimited": 10,
+      "TokenCostLimited": 14,
       "MinLevelAppears": 4,
       "MaxLevelAppears": 99,
       "SpawnsInSmallCase": false,
@@ -4307,7 +4307,7 @@
 	  "Type": "Firearm",
       "IconName": "west_lmachinegun.png",
       "TokenCost": 14,
-      "TokenCostLimited": 10,
+      "TokenCostLimited": 14,
       "MinLevelAppears": 4,
       "MaxLevelAppears": 99,
       "SpawnsInSmallCase": false,
@@ -4356,7 +4356,7 @@
 	  "Type": "Firearm",
       "IconName": "east_hmmachinegun.png",
       "TokenCost": 14,
-      "TokenCostLimited": 12,
+      "TokenCostLimited": 14,
       "MinLevelAppears": 4,
       "MaxLevelAppears": 99,
       "SpawnsInSmallCase": false,
@@ -4485,7 +4485,7 @@
 	  "Type": "Firearm",
       "IconName": "west_lmmachinegun.png",
       "TokenCost": 14,
-      "TokenCostLimited": 10,
+      "TokenCostLimited": 14,
       "MinLevelAppears": 4,
       "MaxLevelAppears": 99,
       "SpawnsInSmallCase": false,
@@ -4535,7 +4535,7 @@
       "Type": "Firearm",
       "IconName": "east_baatrifle.png",
       "TokenCost": 3,
-      "TokenCostLimited": 4,
+      "TokenCostLimited": 3,
       "MinLevelAppears": 2,
       "MaxLevelAppears": 3,
       "SpawnsInSmallCase": false,
@@ -4586,7 +4586,7 @@
       "Type": "Firearm",
       "IconName": "east_saatrifle.png",
       "TokenCost": 5,
-      "TokenCostLimited": 4,
+      "TokenCostLimited": 5,
       "MinLevelAppears": 3,
       "MaxLevelAppears": 4,
       "SpawnsInSmallCase": false,
@@ -5060,7 +5060,7 @@
 	  "Type": "Equipment",
       "IconName": "west_m7grenadelauncher.png",
       "TokenCost": 5,
-      "TokenCostLimited": 3,
+      "TokenCostLimited": 5,
       "MinLevelAppears": 2,
       "MaxLevelAppears": 3,
       "SpawnsInSmallCase": false,
@@ -5461,7 +5461,7 @@
       "Type": "Equipment",
       "IconName": "neutral_optic.png",
       "TokenCost": 2,
-      "TokenCostLimited": 3,
+      "TokenCostLimited": 2,
       "MinLevelAppears": 1,
       "MaxLevelAppears": 99,
       "SpawnsInSmallCase": false,
@@ -5718,7 +5718,7 @@
           "MinTargets": 5,
           "MaxTargets": 6,
           "MinTargetsLimited": 4,
-          "MaxTargetsLimited": 4,
+          "MaxTargetsLimited": 5,
           "EnemyType": [
             "GI_Guard"
           ],
@@ -5751,9 +5751,9 @@
           "LeaderType": "GI_Patrol",
           "PatrolSize": 2,
           "MaxPatrols": 1,
-          "MaxPatrolsLimited": 0,
+          "MaxPatrolsLimited": 1,
           "PatrolCadence": 120.0,
-          "PatrolCadenceLimited": 120.0,
+          "PatrolCadenceLimited": 180.0,
           "IFFUsed": 2,
           "SwarmPlayer": false,
           "AssualtSpeed": "Walking",
@@ -5797,8 +5797,8 @@
           ],
           "MinTargets": 8,
           "MaxTargets": 9,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
+          "MinTargetsLimited": 6,
+          "MaxTargetsLimited": 6,
           "EnemyType": [
             "GI_Guard"
           ],
@@ -5902,8 +5902,8 @@
           ],
           "MinTargets": 8,
           "MaxTargets": 8,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
+          "MinTargetsLimited": 6,
+          "MaxTargetsLimited": 8,
           "EnemyType": [
             "GI_Riflewiener"
           ],
@@ -5927,8 +5927,8 @@
           ],
           "MinTargets": 3,
           "MaxTargets": 4,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
+          "MinTargetsLimited": 3,
+          "MaxTargetsLimited": 3,
           "EnemyType": [
             "GI_Riflewiener"
           ],
@@ -5952,8 +5952,8 @@
           ],
           "MinTargets": 4,
           "MaxTargets": 4,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
+          "MinTargetsLimited": 2,
+          "MaxTargetsLimited": 2,
           "EnemyType": [
             "GI_Riflewiener",
 			"GI_Sniper"
@@ -6034,8 +6034,8 @@
           ],
           "MinTargets": 5,
           "MaxTargets": 5,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
+          "MinTargetsLimited": 3,
+          "MaxTargetsLimited": 5,
           "EnemyType": [
             "GI_Sniper",
 			"GI_Riflewiener"
@@ -6060,8 +6060,8 @@
           ],
           "MinTargets": 10,
           "MaxTargets": 10,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
+          "MinTargetsLimited": 7,
+          "MaxTargetsLimited": 8,
           "EnemyType": [
             "GI_Commando",
 			"GI_Machinegunner"
@@ -6085,8 +6085,8 @@
           ],
           "MinTargets": 4,
           "MaxTargets": 4,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
+          "MinTargetsLimited": 3,
+          "MaxTargetsLimited": 3,
           "EnemyType": [
 			"GI_Commando",
 			"GI_CombatEngineer"
@@ -6122,7 +6122,7 @@
           "MaxPatrols": 1,
           "MaxPatrolsLimited": 1,
           "PatrolCadence": 60.0,
-          "PatrolCadenceLimited": 100.0,
+          "PatrolCadenceLimited": 180.0,
           "IFFUsed": 2,
           "SwarmPlayer": false,
           "AssualtSpeed": "Walking",
@@ -6185,8 +6185,8 @@
           ],
           "MinTargets": 8,
           "MaxTargets": 10,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
+          "MinTargetsLimited": 6,
+          "MaxTargetsLimited": 6,
           "EnemyType": [
             "GI_Machinegunner",
 			"GI_Riflewiener"
@@ -6211,8 +6211,8 @@
           ],
           "MinTargets": 4,
           "MaxTargets": 5,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
+          "MinTargetsLimited": 2,
+          "MaxTargetsLimited": 3,
           "EnemyType": [
             "GI_Grenadier",
 			"GI_Riflewiener"
@@ -6237,7 +6237,7 @@
           "MinTargets": 1,
           "MaxTargets": 1,
           "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 2,
+          "MaxTargetsLimited": 1,
           "EnemyType": [
             "GI_CombatEngineer",
 			"GI_Machinegunner",
@@ -6277,8 +6277,8 @@
           "LeaderType": "GI_Officer",
           "PatrolSize": 5,
           "MaxPatrols": 2,
-          "MaxPatrolsLimited": 2,
-          "PatrolCadence": 45.0,
+          "MaxPatrolsLimited": 1,
+          "PatrolCadence": 80.0,
           "PatrolCadenceLimited": 90.0,
           "IFFUsed": 2,
           "SwarmPlayer": false,
@@ -6296,7 +6296,7 @@
           "PatrolSize": 3,
           "MaxPatrols": 1,
           "MaxPatrolsLimited": 1,
-          "PatrolCadence": 45.0,
+          "PatrolCadence": 60.0,
           "PatrolCadenceLimited": 90.0,
           "IFFUsed": 2,
           "SwarmPlayer": false,
@@ -6310,19 +6310,19 @@
   ],
   "LevelsEndless": [
     {
-      "NumOverrideTokensForHold": 2,
-      "MinSupplyPoints": 1,
-      "MaxSupplyPoints": 1,
+      "NumOverrideTokensForHold": 3,
+      "MinSupplyPoints": 3,
+      "MaxSupplyPoints": 3,
       "MinConstructors": 1,
       "MaxConstructors": 1,
       "MinPanels": 1,
       "MaxPanels": 1,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
-      "MinTokensPerSupply": 1,
-      "MaxTokensPerSupply": 1,
+      "MinTokensPerSupply": 3,
+      "MaxTokensPerSupply": 3,
       "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
+      "BoxHealthChance": 0.2,
       "PossiblePanelTypes": [
         "AmmoReloader",
         "MagDuplicator",
@@ -6330,134 +6330,7 @@
       ],
       "TakeChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "GI_Riflewiener",
-        "NumTurrets": 0,
-        "NumGuards": 6,
-        "IFFUsed": 2
-      },
-      "HoldPhases": [
-        {
-          "Encryptions": [
-            "Hardened"
-          ],
-          "MinTargets": 2,
-          "MaxTargets": 3,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
-          "EnemyType": [
-            "GI_Sniper"
-          ],
-          "LeaderType": "GI_Officer",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 2,
-          "SpawnCadence": 20.0,
-          "ScanTime": 20.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 6,
-          "MaxTargets": 8,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "GI_Commando"
-          ],
-          "LeaderType": "GI_Commando",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 3,
-          "SpawnCadence": 12.0,
-          "ScanTime": 40.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Swarm"
-          ],
-          "MinTargets": 1,
-          "MaxTargets": 1,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
-          "EnemyType": [
-            "GI_Riflewiener"
-          ],
-          "LeaderType": "GI_Officer",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 3,
-          "SpawnCadence": 20.0,
-          "ScanTime": 50.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        }
-      ],
-      "SupplyChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "GI_Riflewiener",
-        "NumTurrets": 0,
-        "NumGuards": 6,
-        "IFFUsed": 2
-      },
-      "Patrols": [
-        {
-          "EnemyType": [
-            "GI_Commando"
-          ],
-          "LeaderType": "GI_Commando",
-          "PatrolSize": 3,
-          "MaxPatrols": 3,
-          "MaxPatrolsLimited": 2,
-          "PatrolCadence": 60.0,
-          "PatrolCadenceLimited": 100.0,
-          "IFFUsed": 2,
-          "SwarmPlayer": false,
-          "AssualtSpeed": "Walking",
-          "IsBoss": false,
-          "DropChance": 0.65,
-          "DropsHealth": true
-        }
-      ]
-    },
-    {
-      "NumOverrideTokensForHold": 2,
-      "MinSupplyPoints": 2,
-      "MaxSupplyPoints": 2,
-      "MinConstructors": 1,
-      "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
-      "MinBoxesSpawned": 2,
-      "MaxBoxesSpawned": 4,
-      "MinTokensPerSupply": 1,
-      "MaxTokensPerSupply": 1,
-      "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
-      "PossiblePanelTypes": [
-        "AmmoReloader",
-        "MagDuplicator",
-        "Recycler"
-      ],
-      "TakeChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "GI_Riflewiener",
+        "EnemyType": "GI_Commando",
         "NumTurrets": 0,
         "NumGuards": 8,
         "IFFUsed": 2
@@ -6465,19 +6338,22 @@
       "HoldPhases": [
         {
           "Encryptions": [
-            "Static"
+            "Swarm",
+			"Agile"
           ],
-          "MinTargets": 7,
-          "MaxTargets": 9,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
+          "MinTargets": 8,
+          "MaxTargets": 10,
+          "MinTargetsLimited": 8,
+          "MaxTargetsLimited": 8,
           "EnemyType": [
-            "GI_Riflewiener"
+            "GI_Machinegunner",
+			"GI_Riflewiener",
+			"GI_CombatEngineer"
           ],
           "LeaderType": "GI_Officer",
           "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 6,
+          "MaxEnemies": 8,
+          "MaxEnemiesAlive": 8,
           "MaxDirections": 3,
           "SpawnCadence": 20.0,
           "ScanTime": 25.0,
@@ -6489,18 +6365,21 @@
         },
         {
           "Encryptions": [
-            "Hardened"
+            "Stealth",
+			"Hardened"
           ],
-          "MinTargets": 3,
-          "MaxTargets": 3,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
+          "MinTargets": 6,
+          "MaxTargets": 6,
+          "MinTargetsLimited": 4,
+          "MaxTargetsLimited": 5,
           "EnemyType": [
-            "GI_Patrol"
+            "GI_Grenadier",
+			"GI_Machinegunner",
+			"GI_CombatEngineer"
           ],
           "LeaderType": "GI_Officer",
           "MinEnemies": 3,
-          "MaxEnemies": 3,
+          "MaxEnemies": 6,
           "MaxEnemiesAlive": 6,
           "MaxDirections": 3,
           "SpawnCadence": 10.0,
@@ -6513,23 +6392,26 @@
         },
         {
           "Encryptions": [
-            "Swarm"
+			"Cascading"
           ],
-          "MinTargets": 3,
-          "MaxTargets": 3,
+          "MinTargets": 1,
+          "MaxTargets": 1,
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "GI_Machinegunner"
+            "GI_CombatEngineer",
+			"GI_Grenadier",
+			"GI_Riflewiener",
+			"GI_Sniper"
           ],
           "LeaderType": "GI_Officer",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 6,
+          "MinEnemies": 6,
+          "MaxEnemies": 8,
+          "MaxEnemiesAlive": 8,
           "MaxDirections": 3,
           "SpawnCadence": 20.0,
           "ScanTime": 60.0,
-          "WarmupTime": 7.0,
+          "WarmupTime": 8.0,
           "IFFUsed": 2,
           "GrenadeChance": 0.0,
           "GrenadeType": "Sosiggrenade_Flash",
@@ -6546,25 +6428,47 @@
       "Patrols": [
         {
           "EnemyType": [
-            "GI_CombatEngineer"
+            "GI_CombatEngineer",
+			"GI_Riflewiener",
+			"GI_Grenadier",
+			"GI_Sniper",
+			"GI_Machinegunner"
           ],
           "LeaderType": "GI_Officer",
-          "PatrolSize": 2,
-          "MaxPatrols": 4,
-          "MaxPatrolsLimited": 2,
-          "PatrolCadence": 45.0,
+          "PatrolSize": 5,
+          "MaxPatrols": 2,
+          "MaxPatrolsLimited": 1,
+          "PatrolCadence": 80.0,
           "PatrolCadenceLimited": 90.0,
           "IFFUsed": 2,
           "SwarmPlayer": false,
           "AssualtSpeed": "Walking",
           "IsBoss": false,
-          "DropChance": 0.65,
+          "DropChance": 0.3,
+          "DropsHealth": true
+        },
+        {
+          "EnemyType": [
+            "GI_Commando",
+			"GI_CombatEngineer"
+          ],
+          "LeaderType": "GI_Officer",
+          "PatrolSize": 4,
+          "MaxPatrols": 1,
+          "MaxPatrolsLimited": 1,
+          "PatrolCadence": 60.0,
+          "PatrolCadenceLimited": 90.0,
+          "IFFUsed": 2,
+          "SwarmPlayer": false,
+          "AssualtSpeed": "Walking",
+          "IsBoss": false,
+          "DropChance": 0.3,
           "DropsHealth": true
         }
       ]
     },
     {
-      "NumOverrideTokensForHold": 2,
+      "NumOverrideTokensForHold": 3,
       "MinSupplyPoints": 3,
       "MaxSupplyPoints": 3,
       "MinConstructors": 1,
@@ -6573,137 +6477,10 @@
       "MaxPanels": 1,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
-      "MinTokensPerSupply": 1,
-      "MaxTokensPerSupply": 1,
+      "MinTokensPerSupply": 3,
+      "MaxTokensPerSupply": 3,
       "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
-      "PossiblePanelTypes": [
-        "AmmoReloader",
-        "MagDuplicator",
-        "Recycler"
-      ],
-      "TakeChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "GI_CombatEngineer",
-        "NumTurrets": 0,
-        "NumGuards": 5,
-        "IFFUsed": 2
-      },
-      "HoldPhases": [
-        {
-          "Encryptions": [
-            "Hardened"
-          ],
-          "MinTargets": 3,
-          "MaxTargets": 5,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
-          "EnemyType": [
-            "GI_Guard"
-          ],
-          "LeaderType": "GI_Guard",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 3,
-          "SpawnCadence": 10.0,
-          "ScanTime": 40.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 7,
-          "MaxTargets": 9,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "GI_Commando"
-          ],
-          "LeaderType": "GI_Commando",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 9,
-          "MaxDirections": 3,
-          "SpawnCadence": 20.0,
-          "ScanTime": 35.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Swarm"
-          ],
-          "MinTargets": 1,
-          "MaxTargets": 2,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
-          "EnemyType": [
-            "GI_Machinegunner"
-          ],
-          "LeaderType": "GI_Machinegunner",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 1,
-          "SpawnCadence": 15.0,
-          "ScanTime": 60.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        }
-      ],
-      "SupplyChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "GI_CombatEngineer",
-        "NumTurrets": 0,
-        "NumGuards": 5,
-        "IFFUsed": 2
-      },
-      "Patrols": [
-        {
-          "EnemyType": [
-            "GI_Patrol"
-          ],
-          "LeaderType": "GI_Commando",
-          "PatrolSize": 3,
-          "MaxPatrols": 3,
-          "MaxPatrolsLimited": 2,
-          "PatrolCadence": 45.0,
-          "PatrolCadenceLimited": 90.0,
-          "IFFUsed": 2,
-          "SwarmPlayer": false,
-          "AssualtSpeed": "Walking",
-          "IsBoss": false,
-          "DropChance": 0.65,
-          "DropsHealth": true
-        }
-      ]
-    },
-    {
-      "NumOverrideTokensForHold": 2,
-      "MinSupplyPoints": 3,
-      "MaxSupplyPoints": 3,
-      "MinConstructors": 1,
-      "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
-      "MinBoxesSpawned": 2,
-      "MaxBoxesSpawned": 4,
-      "MinTokensPerSupply": 1,
-      "MaxTokensPerSupply": 1,
-      "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
+      "BoxHealthChance": 0.2,
       "PossiblePanelTypes": [
         "AmmoReloader",
         "MagDuplicator",
@@ -6713,155 +6490,31 @@
         "TurretType": "SMG",
         "EnemyType": "GI_Commando",
         "NumTurrets": 0,
-        "NumGuards": 7,
+        "NumGuards": 8,
         "IFFUsed": 2
       },
       "HoldPhases": [
         {
           "Encryptions": [
-            "Swarm"
-          ],
-          "MinTargets": 1,
-          "MaxTargets": 2,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
-          "EnemyType": [
-            "GI_Patrol"
-          ],
-          "LeaderType": "GI_Patrol",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 9,
-          "MaxDirections": 1,
-          "SpawnCadence": 10.0,
-          "ScanTime": 50.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Hardened"
-          ],
-          "MinTargets": 3,
-          "MaxTargets": 5,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
-          "EnemyType": [
-            "GI_Guard"
-          ],
-          "LeaderType": "GI_Guard",
-          "MinEnemies": 3,
-          "MaxEnemies": 6,
-          "MaxEnemiesAlive": 9,
-          "MaxDirections": 2,
-          "SpawnCadence": 10.0,
-          "ScanTime": 30.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 6,
-          "MaxTargets": 9,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "GI_Grenadier"
-          ],
-          "LeaderType": "GI_Grenadier",
-          "MinEnemies": 1,
-          "MaxEnemies": 1,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 40.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        }
-      ],
-      "SupplyChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "GI_Commando",
-        "NumTurrets": 0,
-        "NumGuards": 7,
-        "IFFUsed": 2
-      },
-      "Patrols": [
-        {
-          "EnemyType": [
-            "GI_Commando"
-          ],
-          "LeaderType": "GI_Commando",
-          "PatrolSize": 1,
-          "MaxPatrols": 5,
-          "MaxPatrolsLimited": 5,
-          "PatrolCadence": 15.0,
-          "PatrolCadenceLimited": 25.0,
-          "IFFUsed": 2,
-          "SwarmPlayer": false,
-          "AssualtSpeed": "Walking",
-          "IsBoss": false,
-          "DropChance": 0.65,
-          "DropsHealth": true
-        }
-      ]
-    },
-    {
-      "NumOverrideTokensForHold": 2,
-      "MinSupplyPoints": 3,
-      "MaxSupplyPoints": 3,
-      "MinConstructors": 1,
-      "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
-      "MinBoxesSpawned": 2,
-      "MaxBoxesSpawned": 4,
-      "MinTokensPerSupply": 1,
-      "MaxTokensPerSupply": 1,
-      "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
-      "PossiblePanelTypes": [
-        "AmmoReloader",
-        "MagDuplicator",
-        "Recycler"
-      ],
-      "TakeChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "GI_Riflewiener",
-        "NumTurrets": 0,
-        "NumGuards": 6,
-        "IFFUsed": 2
-      },
-      "HoldPhases": [
-        {
-          "Encryptions": [
-            "Static"
+            "Hardened",
+			"Agile"
           ],
           "MinTargets": 10,
-          "MaxTargets": 12,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
+          "MaxTargets": 10,
+          "MinTargetsLimited": 8,
+          "MaxTargetsLimited": 10,
           "EnemyType": [
-            "GI_CombatEngineer"
+            "GI_Machinegunner",
+			"GI_Riflewiener",
+			"GI_CombatEngineer"
           ],
           "LeaderType": "GI_Officer",
-          "MinEnemies": 1,
-          "MaxEnemies": 1,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 1,
+          "MinEnemies": 3,
+          "MaxEnemies": 8,
+          "MaxEnemiesAlive": 8,
+          "MaxDirections": 3,
           "SpawnCadence": 20.0,
-          "ScanTime": 20.0,
+          "ScanTime": 25.0,
           "WarmupTime": 7.0,
           "IFFUsed": 2,
           "GrenadeChance": 0.0,
@@ -6870,22 +6523,25 @@
         },
         {
           "Encryptions": [
-            "Hardened"
+            "Agile",
+			"Recursive"
           ],
-          "MinTargets": 9,
-          "MaxTargets": 9,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
+          "MinTargets": 8,
+          "MaxTargets": 8,
+          "MinTargetsLimited": 4,
+          "MaxTargetsLimited": 5,
           "EnemyType": [
-            "GI_CombatEngineer"
+            "GI_Grenadier",
+			"GI_Machinegunner",
+			"GI_CombatEngineer"
           ],
-          "LeaderType": "GI_Machinegunner",
-          "MinEnemies": 1,
-          "MaxEnemies": 1,
+          "LeaderType": "GI_Officer",
+          "MinEnemies": 3,
+          "MaxEnemies": 6,
           "MaxEnemiesAlive": 6,
-          "MaxDirections": 1,
-          "SpawnCadence": 20.0,
-          "ScanTime": 20.0,
+          "MaxDirections": 3,
+          "SpawnCadence": 10.0,
+          "ScanTime": 40.0,
           "WarmupTime": 7.0,
           "IFFUsed": 2,
           "GrenadeChance": 0.0,
@@ -6894,23 +6550,26 @@
         },
         {
           "Encryptions": [
-            "Swarm"
+			"Polymorphic"
           ],
-          "MinTargets": 9,
-          "MaxTargets": 9,
+          "MinTargets": 1,
+          "MaxTargets": 1,
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "GI_CombatEngineer"
+            "GI_CombatEngineer",
+			"GI_Grenadier",
+			"GI_Riflewiener",
+			"GI_Sniper"
           ],
-          "LeaderType": "GI_Grenadier",
-          "MinEnemies": 1,
-          "MaxEnemies": 1,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 1,
+          "LeaderType": "GI_Officer",
+          "MinEnemies": 6,
+          "MaxEnemies": 8,
+          "MaxEnemiesAlive": 8,
+          "MaxDirections": 3,
           "SpawnCadence": 20.0,
-          "ScanTime": 20.0,
-          "WarmupTime": 7.0,
+          "ScanTime": 60.0,
+          "WarmupTime": 8.0,
           "IFFUsed": 2,
           "GrenadeChance": 0.0,
           "GrenadeType": "Sosiggrenade_Flash",
@@ -6921,31 +6580,52 @@
         "TurretType": "SMG",
         "EnemyType": "GI_Riflewiener",
         "NumTurrets": 0,
-        "NumGuards": 6,
+        "NumGuards": 8,
         "IFFUsed": 2
       },
       "Patrols": [
         {
           "EnemyType": [
-            "GI_Riflewiener"
+            "GI_CombatEngineer",
+			"GI_Riflewiener",
+			"GI_Grenadier",
+			"GI_Sniper",
+			"GI_Machinegunner"
           ],
-          "LeaderType": "GI_Machinegunner",
+          "LeaderType": "GI_Officer",
           "PatrolSize": 5,
-          "MaxPatrols": 3,
-          "MaxPatrolsLimited": 2,
-          "PatrolCadence": 45.0,
+          "MaxPatrols": 2,
+          "MaxPatrolsLimited": 1,
+          "PatrolCadence": 80.0,
           "PatrolCadenceLimited": 90.0,
           "IFFUsed": 2,
           "SwarmPlayer": false,
           "AssualtSpeed": "Walking",
           "IsBoss": false,
-          "DropChance": 0.65,
+          "DropChance": 0.3,
           "DropsHealth": true
-        }
-      ]
+        },
+        {
+          "EnemyType": [
+            "GI_Commando",
+			"GI_CombatEngineer",
+			"GI_Machinegunner"
+          ],
+          "LeaderType": "GI_Officer",
+          "PatrolSize": 5,
+          "MaxPatrols": 2,
+          "MaxPatrolsLimited": 1,
+          "PatrolCadence": 60.0,
+          "PatrolCadenceLimited": 90.0,
+          "IFFUsed": 2,
+          "SwarmPlayer": false,
+          "AssualtSpeed": "Walking",
+          "IsBoss": false,
+          "DropChance": 0.3,
+          "DropsHealth": true
     },
     {
-      "NumOverrideTokensForHold": 2,
+   "NumOverrideTokensForHold": 3,
       "MinSupplyPoints": 3,
       "MaxSupplyPoints": 3,
       "MinConstructors": 1,
@@ -6954,10 +6634,10 @@
       "MaxPanels": 1,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
-      "MinTokensPerSupply": 1,
-      "MaxTokensPerSupply": 1,
+      "MinTokensPerSupply": 3,
+      "MaxTokensPerSupply": 3,
       "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
+      "BoxHealthChance": 0.2,
       "PossiblePanelTypes": [
         "AmmoReloader",
         "MagDuplicator",
@@ -6965,103 +6645,34 @@
       ],
       "TakeChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "GI_Machinegunner",
+        "EnemyType": "GI_Commando",
         "NumTurrets": 0,
-        "NumGuards": 6,
+        "NumGuards": 8,
         "IFFUsed": 2
       },
       "HoldPhases": [
         {
           "Encryptions": [
-            "Static"
+            "Hardened",
+			"Agile"
           ],
-          "MinTargets": 3,
-          "MaxTargets": 6,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
+          "MinTargets": 10,
+          "MaxTargets": 10,
+          "MinTargetsLimited": 8,
+          "MaxTargetsLimited": 10,
           "EnemyType": [
-            "GI_Guard"
-          ],
-          "LeaderType": "GI_Guard",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 3,
-          "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 10.0,
-          "WarmupTime": 4.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 3,
-          "MaxTargets": 6,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "GI_Patrol"
-          ],
-          "LeaderType": "GI_Patrol",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 3,
-          "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 10.0,
-          "WarmupTime": 4.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 3,
-          "MaxTargets": 6,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "GI_Grenadier"
-          ],
-          "LeaderType": "GI_Grenadier",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 3,
-          "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 10.0,
-          "WarmupTime": 4.0,
-          "IFFUsed": 2,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 3,
-          "MaxTargets": 6,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "GI_Officer"
+            "GI_Machinegunner",
+			"GI_Riflewiener",
+			"GI_CombatEngineer"
           ],
           "LeaderType": "GI_Officer",
           "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 3,
+          "MaxEnemies": 8,
+          "MaxEnemiesAlive": 8,
           "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 10.0,
-          "WarmupTime": 4.0,
+          "SpawnCadence": 20.0,
+          "ScanTime": 25.0,
+          "WarmupTime": 7.0,
           "IFFUsed": 2,
           "GrenadeChance": 0.0,
           "GrenadeType": "Sosiggrenade_Flash",
@@ -7069,23 +6680,55 @@
         },
         {
           "Encryptions": [
-            "Static"
+            "Agile",
+			"Recursive"
           ],
-          "MinTargets": 3,
-          "MaxTargets": 6,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
+          "MinTargets": 8,
+          "MaxTargets": 8,
+          "MinTargetsLimited": 4,
+          "MaxTargetsLimited": 5,
           "EnemyType": [
-            "GI_Riflewiener"
+            "GI_Grenadier",
+			"GI_Machinegunner",
+			"GI_CombatEngineer"
           ],
-          "LeaderType": "GI_Riflewiener",
+          "LeaderType": "GI_Officer",
           "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 3,
+          "MaxEnemies": 6,
+          "MaxEnemiesAlive": 6,
           "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 10.0,
-          "WarmupTime": 4.0,
+          "SpawnCadence": 10.0,
+          "ScanTime": 40.0,
+          "WarmupTime": 7.0,
+          "IFFUsed": 2,
+          "GrenadeChance": 0.0,
+          "GrenadeType": "Sosiggrenade_Flash",
+          "SwarmPlayer": false
+        },
+        {
+          "Encryptions": [
+			"Swarm",
+			"Agile",
+			"Recursive"
+          ],
+          "MinTargets": 8,
+          "MaxTargets": 8,
+          "MinTargetsLimited": 6,
+          "MaxTargetsLimited": 6,
+          "EnemyType": [
+            "GI_CombatEngineer",
+			"GI_Grenadier",
+			"GI_Riflewiener",
+			"GI_Sniper"
+          ],
+          "LeaderType": "GI_Officer",
+          "MinEnemies": 6,
+          "MaxEnemies": 8,
+          "MaxEnemiesAlive": 8,
+          "MaxDirections": 3,
+          "SpawnCadence": 20.0,
+          "ScanTime": 60.0,
+          "WarmupTime": 8.0,
           "IFFUsed": 2,
           "GrenadeChance": 0.0,
           "GrenadeType": "Sosiggrenade_Flash",
@@ -7094,27 +6737,50 @@
       ],
       "SupplyChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "GI_Machinegunner",
+        "EnemyType": "GI_Riflewiener",
         "NumTurrets": 0,
-        "NumGuards": 6,
+        "NumGuards": 8,
         "IFFUsed": 2
       },
       "Patrols": [
         {
           "EnemyType": [
-            "GI_Sniper"
+            "GI_CombatEngineer",
+			"GI_Riflewiener",
+			"GI_Grenadier",
+			"GI_Sniper",
+			"GI_Machinegunner"
           ],
-          "LeaderType": "GI_Sniper",
-          "PatrolSize": 1,
-          "MaxPatrols": 5,
-          "MaxPatrolsLimited": 3,
-          "PatrolCadence": 15.0,
-          "PatrolCadenceLimited": 30.0,
+          "LeaderType": "GI_Officer",
+          "PatrolSize": 5,
+          "MaxPatrols": 2,
+          "MaxPatrolsLimited": 1,
+          "PatrolCadence": 80.0,
+          "PatrolCadenceLimited": 90.0,
           "IFFUsed": 2,
           "SwarmPlayer": false,
           "AssualtSpeed": "Walking",
           "IsBoss": false,
-          "DropChance": 0.65,
+          "DropChance": 0.3,
+          "DropsHealth": true
+        },
+        {
+          "EnemyType": [
+            "GI_Grenadier",
+			"GI_CombatEngineer",
+			"GI_Machinegunner"
+          ],
+          "LeaderType": "GI_Officer",
+          "PatrolSize": 5,
+          "MaxPatrols": 2,
+          "MaxPatrolsLimited": 1,
+          "PatrolCadence": 60.0,
+          "PatrolCadenceLimited": 90.0,
+          "IFFUsed": 2,
+          "SwarmPlayer": false,
+          "AssualtSpeed": "Walking",
+          "IsBoss": false,
+          "DropChance": 0.3,
           "DropsHealth": true
         }
       ]
