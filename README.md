@@ -2,8 +2,10 @@
 
 ### Welcome To The Jungle!
 Hue Cha Minh is a Take n' Hold character that fully utilizes the diverse weaponry and equipment used in the Indochina/Vietnam conflicts via vanilla and modded content. 
+
 ### Faction-Based Lootpools
 Instead of a single lootpool for each category of equipment, lootpools are instead split into 2 master categories: equipment used by the Pathet-Lao, Viet-Minh, Viet-Cong, etc. (either produced themselves, or captured/supplied by other means), and equipment that the US, ARVN, and ANZAC forces have deployed in the conflicts. Each faction's lootpools can be identified in the Take n' Hold shop with the former factions being red, and the latter blue. Equipment used can be designed and produced as early as the 1870s, to as late as 1975. You'll be pressed to find fancy tupperware, so expect surplus and wooden furniture!
+
 ### Balancing
 - ***Infinite Ammo & 5 Holds is strongly recommended; Limited Ammo and Endless have not been balanced.***
 - Lootpool prices have been drastically increased to encourage purchasing low-capacity weapons to save up for high-capacity, large-caliber firearms.
@@ -12,7 +14,10 @@ Instead of a single lootpool for each category of equipment, lootpools are inste
 - Grenadiers and Combat Engineers, armed with grenade launchers and flamethrowers respectively, become much more prominent during late-game.
 
 ### Recommended Mods
-*I highly suggest the use of most, if not all, of the recommended and optional mods; recommended mods greatly diversify the weapon pools as using the bare minimum requirements can lead to the pools being somewhat barren, especially in later holds. The optional content provides much-needed quality-of-life tweaks and immersion enhancements to Take n' Hold but aren't necessary.*
+
+<details>
+    <summary>Show Mods</summary>
+  
 - [Andrew FTW's Fairbairn-Sykes Fighting Knife](https://h3vr.thunderstore.io/package/Andrew_FTW/FTW_Arms_Edged_Weapons_Pack/)
 - [Andrew FTW's M7 Grenade Launcher](https://h3vr.thunderstore.io/package/Andrew_FTW/FTW_Arms_Modular_M1a/)
 - [Andrew FTW's M14 Thermite Grenade](https://h3vr.thunderstore.io/package/Andrew_FTW/FTW_Arms_Thermite_Grenade/)
@@ -91,9 +96,17 @@ Instead of a single lootpool for each category of equipment, lootpools are inste
 - [Vohnyshche's TOZ-34](https://h3vr.thunderstore.io/package/Vohnyshche/TOZ34/)
 - [Vohnyshche's TOZ-66](https://h3vr.thunderstore.io/package/Vohnyshche/TOZ66/)
 
-**A modpack that automatically downloads all of the Recommended Mods can be found [here.](https://thunderstore.io/c/h3vr/p/DootyEnjoyer6/Hue_Cha_Minh_Content_Pack/)**
+</details>
+
+- *Recommended mods greatly diversify the weapon pools as using the bare minimum requirements can lead to the pools being somewhat barren, especially in later holds*
+
+A modpack that automatically downloads all of the recommended mods can be found [here.](https://thunderstore.io/c/h3vr/p/DootyEnjoyer6/Hue_Cha_Minh_Content_Pack/)
 
 ### Optional Mods
+
+<details>
+  <summary>Show Mods</summary>
+
 - [Abass20's Jungle Camp](https://h3vr.thunderstore.io/package/Abass20/JungleCampTNH/)
 - [Abass20's Jungle Valley](https://h3vr.thunderstore.io/package/Abass20/JungleValleyTNH/)
 - [Andrew FTW's 40MM Overhaul](https://h3vr.thunderstore.io/package/Andrew_FTW/FTW_Arms_40mm_Overhaul/)
@@ -126,4 +139,10 @@ Instead of a single lootpool for each category of equipment, lootpools are inste
 - [Smidgeon's Mag-Boop](https://h3vr.thunderstore.io/package/Smidgeon/MagBoop/)
 - [Smidgeon's Stovepipe Malfunctions](https://h3vr.thunderstore.io/package/Smidgeon/Stovepipe/)
 
-###### ***(Do you have feedback, bug reports, or questions regarding me or my mods? Please, friend and DM my Discord, "ruspy6", or ping "DootyEnjoyer6" in the H3VR Homebrew Discord Server!)***
+</details>
+
+- *Optional mods provides much-needed quality-of-life tweaks and immersion enhancements to Take n' Hold but aren't necessary. Pick and choose as you please.*
+
+**I highly suggest the use of most, if not all, of the recommended and optional mods!**
+
+###### *(Do you have feedback, bug reports, or questions regarding me or my mods? Please, friend and DM my Discord, "ruspy6", or ping "DootyEnjoyer6" in the H3VR Homebrew Discord Server!)*
