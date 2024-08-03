@@ -7,7 +7,10 @@ Content:
 
 Metadata:
 - Added the new implemented mods in Recommended Mods section
-- Added expanding drop down lists for the Recommended and Optional mod links (Click on them to show the links!)
+- Added drop down lists for the Recommended and Optional mod links (Click on their arrows to show the links!)
+
+Misc:
+- Cleaned up a bunch of code
 
 ### **v1.1.0 (2024-7-7)**
 Balancing:
