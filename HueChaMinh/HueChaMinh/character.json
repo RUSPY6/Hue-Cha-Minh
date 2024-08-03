@@ -1726,8 +1726,8 @@
           "AutoPopulateGroup": false,
           "ForceSpawnAllSubPools": false,
           "IDOverride": [
-          "M1895Nagant",
-          "NagantOfficer.Billiam"
+            "M1895Nagant",
+            "NagantOfficer.Billiam"
           ],
           "Eras": [],
           "Sets": [
@@ -3656,7 +3656,6 @@
             "AutoPopulateGroup": false,
             "ForceSpawnAllSubPools": false,
             "IDOverride": [
-              "SVT40",
               "NWSVT40"
             ],
             "Eras": [],
@@ -3677,7 +3676,46 @@
             "PowerupTypes": [],
             "ThrownTypes": [],
             "ThrownDamageTypes": [],
-            "SubGroups": []
+            "SubGroups": [
+              {
+                "Category": "Firearm",
+                "Rarity": 0.0,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": 30,
+                "MaxAmmoCapacity": 30,
+                "NumMagsSpawned": 3,
+                "NumClipsSpawned": 3,
+                "NumRoundsSpawned": 8,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.5,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "SVT40"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": []
+              }
+            ]
           },
           {
             "Category": "Firearm",
@@ -4021,7 +4059,6 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "AVT40",
           "NWAVT40"
         ],
         "Eras": [],
@@ -4042,7 +4079,46 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": null
+        "SubGroups": [
+          {
+            "Category": "Firearm",
+            "Rarity": 0.0,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 40,
+            "MaxAmmoCapacity": 75,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "AVT40"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          }
+        ]
       },
       "BackupGroup": null
     },
