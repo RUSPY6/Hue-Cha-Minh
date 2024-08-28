@@ -1611,8 +1611,7 @@
             "Hamada2.Billiam",
             "FN1903.Billiam",
             "cz27.Billiam",
-            "Dev_Type14",
-            "GyrojetPistol.Muzz"
+            "Dev_Type14"
           ],
           "Eras": [],
           "Sets": [
@@ -1633,6 +1632,44 @@
           "ThrownTypes": [],
           "ThrownDamageTypes": [],
           "SubGroups": [
+            {
+              "Category": "Firearm",
+              "Rarity": 0.6,
+              "RequiredQuest": null,
+              "ItemsToSpawn": 1,
+              "MinAmmoCapacity": 6,
+              "MaxAmmoCapacity": 10,
+              "NumMagsSpawned": 3,
+              "NumClipsSpawned": 3,
+              "NumRoundsSpawned": 10,
+              "SpawnMagAndClip": false,
+              "BespokeAttachmentChance": 0.0,
+              "IsCompatibleMagazine": false,
+              "AutoPopulateGroup": false,
+              "ForceSpawnAllSubPools": false,
+              "IDOverride": [
+                "GyrojetPistol.Muzz"
+              ],
+              "Eras": [],
+              "Sets": [
+                "Real"
+              ],
+              "Sizes": [],
+              "Actions": [],
+              "Modes": [],
+              "ExcludedModes": [],
+              "FeedOptions": [],
+              "MountsAvailable": [],
+              "RoundPowers": [],
+              "Features": [],
+              "MeleeStyles": [],
+              "MeleeHandedness": [],
+              "MountTypes": [],
+              "PowerupTypes": [],
+              "ThrownTypes": [],
+              "ThrownDamageTypes": [],
+              "SubGroups": []
+            },
             {
               "Category": "Firearm",
               "Rarity": 1.0,
@@ -2427,7 +2464,46 @@
             "PowerupTypes": [],
             "ThrownTypes": [],
             "ThrownDamageTypes": [],
-            "SubGroups": []
+            "SubGroups": [
+              {
+                "Category": "Firearm",
+                "Rarity": 0.2,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": 5,
+                "MaxAmmoCapacity": 10,
+                "NumMagsSpawned": 1,
+                "NumClipsSpawned": 4,
+                "NumRoundsSpawned": 20,
+                "SpawnMagAndClip": true,
+                "BespokeAttachmentChance": 0.0,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "vault_l42a1scoped"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": []
+              }
+            ]
           }
         ]
       },
@@ -2459,8 +2535,7 @@
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
           "HammerlessLong",
-          "Voh_TOZ66",
-          "M30Drilling.Muzz"
+          "Voh_TOZ66"
         ],
         "Eras": [],
         "Sets": [
@@ -2499,6 +2574,44 @@
             "IDOverride": [
               "Voh_TOZ34",
               "Voh_TOZ34Coach"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          },
+          {
+            "Category": "Firearm",
+            "Rarity": 0.3,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 1,
+            "MaxAmmoCapacity": 3,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "M30Drilling.Muzz"
             ],
             "Eras": [],
             "Sets": [
@@ -2722,8 +2835,7 @@
             "ForceSpawnAllSubPools": false,
             "IDOverride": [
               "Makarov",
-              "Type-59",
-              "pbpistol"
+              "Type-59"
             ],
             "Eras": [],
             "Sets": [
@@ -2743,7 +2855,46 @@
             "PowerupTypes": [],
             "ThrownTypes": [],
             "ThrownDamageTypes": [],
-            "SubGroups": []
+            "SubGroups": [
+              {
+                "Category": "Firearm",
+                "Rarity": 0.4,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": 6,
+                "MaxAmmoCapacity": 20,
+                "NumMagsSpawned": 3,
+                "NumClipsSpawned": 3,
+                "NumRoundsSpawned": 8,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.5,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "pbpistol"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": []
+              }
+            ]
           }
         ]
       },
@@ -2798,7 +2949,7 @@
         "SubGroups": [
           {
             "Category": "Firearm",
-            "Rarity": 1,
+            "Rarity": 1.5,
             "RequiredQuest": null,
             "ItemsToSpawn": 1,
             "MinAmmoCapacity": 7,
@@ -2812,8 +2963,6 @@
             "AutoPopulateGroup": false,
             "ForceSpawnAllSubPools": false,
             "IDOverride": [
-              "M1911",
-              "M1911A1_38.Billiam",
               "M111911Built"
             ],
             "Eras": [],
@@ -2834,7 +2983,84 @@
             "PowerupTypes": [],
             "ThrownTypes": [],
             "ThrownDamageTypes": [],
-            "SubGroups": []
+            "SubGroups": [
+              {
+                "Category": "Firearm",
+                "Rarity": 0.8,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": 7,
+                "MaxAmmoCapacity": 14,
+                "NumMagsSpawned": 3,
+                "NumClipsSpawned": 3,
+                "NumRoundsSpawned": 8,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.5,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "M1911"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": []
+              },
+              {
+                "Category": "Firearm",
+                "Rarity": 0.5,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": 7,
+                "MaxAmmoCapacity": 14,
+                "NumMagsSpawned": 3,
+                "NumClipsSpawned": 3,
+                "NumRoundsSpawned": 8,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.5,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "M1911A1_38.Billiam"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": []
+              }
+            ]
           }
         ]
       },
@@ -3170,8 +3396,7 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "SKSClassic",
-          "Dev_VZ52"
+          "SKSClassic"
         ],
         "Eras": [],
         "Sets": [
@@ -3191,7 +3416,46 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": null
+        "SubGroups": [
+          {
+            "Category": "Firearm",
+            "Rarity": 0.3,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 10,
+            "MaxAmmoCapacity": 15,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "Dev_VZ52"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          }
+        ]
       },
       "BackupGroup": null
     },
@@ -3241,7 +3505,46 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": null
+        "SubGroups": [
+          {
+            "Category": "Firearm",
+            "Rarity": 0.3,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 15,
+            "MaxAmmoCapacity": 15,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "potatoesM1A1Paratrooper"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          }
+        ]
       },
       "BackupGroup": null
     },
@@ -3328,7 +3631,6 @@
           "ThompsonM1A1",
           "M2Carbine",
           "Mac10",
-          "Owen",
           "Dev_M45",
           "potatoesSterlingSMG"
         ],
@@ -3485,7 +3787,6 @@
             "AutoPopulateGroup": false,
             "ForceSpawnAllSubPools": false,
             "IDOverride": [
-              "M3Greasegun",
               "M3A1"
             ],
             "Eras": [],
@@ -3506,11 +3807,48 @@
             "PowerupTypes": [],
             "ThrownTypes": [],
             "ThrownDamageTypes": [],
-            "SubGroups": []
+            "SubGroups": [
+              {
+                "Category": "Firearm",
+                "Rarity": 0.3,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": 30,
+                "MaxAmmoCapacity": 40,
+                "NumMagsSpawned": 3,
+                "NumClipsSpawned": 3,
+                "NumRoundsSpawned": 8,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.5,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "M3Greasegun"
+                ],
+                "Eras": [],
+                "Sets": [],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": [] 
+              }
+            ]
           },
           {
             "Category": "Firearm",
-            "Rarity": 1,
+            "Rarity": 1.0,
             "RequiredQuest": null,
             "ItemsToSpawn": 1,
             "MinAmmoCapacity": 30,
@@ -3549,7 +3887,7 @@
           },
           {
             "Category": "Firearm",
-            "Rarity": 0.5,
+            "Rarity": 0.4,
             "RequiredQuest": null,
             "ItemsToSpawn": 1,
             "MinAmmoCapacity": 30,
@@ -3617,8 +3955,6 @@
         "IDOverride": [
           "Dragonuv",
           "potatoesG43",
-          "Type4.Billiam",
-          "G41W",
           "M1Garand"
         ],
         "Eras": [],
@@ -3642,7 +3978,83 @@
         "SubGroups": [
           {
             "Category": "Firearm",
-            "Rarity": 1,
+            "Rarity": 0.3,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 10,
+            "MaxAmmoCapacity": 10,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 4,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "G41W"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          },
+          {
+            "Category": "Firearm",
+            "Rarity": 0.1,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 10,
+            "MaxAmmoCapacity": 10,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 4,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "Type4.Billiam"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          },
+          {
+            "Category": "Firearm",
+            "Rarity": 1.0,
             "RequiredQuest": null,
             "ItemsToSpawn": 1,
             "MinAmmoCapacity": 10,
@@ -3719,7 +4131,7 @@
           },
           {
             "Category": "Firearm",
-            "Rarity": 1,
+            "Rarity": 1.0,
             "RequiredQuest": null,
             "ItemsToSpawn": 1,
             "MinAmmoCapacity": 10,
@@ -3733,7 +4145,6 @@
             "AutoPopulateGroup": false,
             "ForceSpawnAllSubPools": false,
             "IDOverride": [
-              "MAS49/56",
               "MAS44.Billiam"
             ],
             "Eras": [],
@@ -3754,7 +4165,46 @@
             "PowerupTypes": [],
             "ThrownTypes": [],
             "ThrownDamageTypes": [],
-            "SubGroups": []
+            "SubGroups": [
+              {
+                "Category": "Firearm",
+                "Rarity": 0.2,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": 10,
+                "MaxAmmoCapacity": 10,
+                "NumMagsSpawned": 3,
+                "NumClipsSpawned": 4,
+                "NumRoundsSpawned": 8,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.5,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "MAS49/56"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": []
+              }
+            ]
           }
         ]
       },
@@ -3859,7 +4309,7 @@
         "SubGroups": [
           {
             "Category": "Firearm",
-            "Rarity": 1,
+            "Rarity": 1.0,
             "RequiredQuest": null,
             "ItemsToSpawn": 1,
             "MinAmmoCapacity": 30,
@@ -4005,12 +4455,8 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "C601",
           "M16",
-          "M16A1",
-          "Stoner63AR",
-          "vault_xm117e2",
-          "vault_gau-5aa"
+          "M16A1"
         ],
         "Eras": [],
         "Sets": [
@@ -4030,7 +4476,123 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": []
+        "SubGroups": [
+          {
+            "Category": "Firearm",
+            "Rarity": 0.3,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 20,
+            "MaxAmmoCapacity": 30,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "C601"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          },
+          {
+            "Category": "Firearm",
+            "Rarity": 0.7,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 20,
+            "MaxAmmoCapacity": 30,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "Stoner63AR"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          },
+          {
+            "Category": "Firearm",
+            "Rarity": 0.8,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 20,
+            "MaxAmmoCapacity": 30,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "vault_xm117e2",
+              "vault_gau-5aa"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          }
+        ]
       },
       "BackupGroup": null
     },
@@ -4147,8 +4709,7 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "M14",
-          "AR10"
+          "M14"
         ],
         "Eras": [],
         "Sets": [
@@ -4168,7 +4729,46 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": null
+        "SubGroups": [
+          {
+            "Category": "Firearm",
+            "Rarity": 0.4,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 20,
+            "MaxAmmoCapacity": 20,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "AR10"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          }
+        ]
       },
       "BackupGroup": null
     },
@@ -4285,7 +4885,6 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "M1918BAR",
           "vault_l2a1"
         ],
         "Eras": [],
@@ -4341,8 +4940,6 @@
           "Dev_ZB26",
           "Type96LMG",
           "Type99LMG",
-          "Type11 LMG",
-          "fg42_optimized",
           "M1918BAR"
         ],
         "Eras": [],
@@ -4363,7 +4960,84 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": null
+        "SubGroups": [
+          {
+            "Category": "Firearm",
+            "Rarity": 0.3,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 20,
+            "MaxAmmoCapacity": 30,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "fg42_optimized"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          },
+          {
+            "Category": "Firearm",
+            "Rarity": 0.8,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 20,
+            "MaxAmmoCapacity": 30,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "Type11 LMG"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          }
+        ]
       },
       "BackupGroup": null
     },
@@ -4619,8 +5293,7 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "M60",
-          "M1919A6"
+          "M60"
         ],
         "Eras": [],
         "Sets": [
@@ -4640,7 +5313,46 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": null
+        "SubGroups": [
+          {
+            "Category": "Firearm",
+            "Rarity": 0.5,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 45,
+            "MaxAmmoCapacity": 75,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "M1919A6"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          }
+        ]
       },
       "BackupGroup": null
     },
@@ -4669,9 +5381,7 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "ftw.gun.ptrd",
-          "PZB39.Billiam",
-          "potatoesBoysATGun"
+          "ftw.gun.ptrd"
         ],
         "Eras": [],
         "Sets": [
@@ -4691,7 +5401,84 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": null
+        "SubGroups": [
+          {
+            "Category": "Firearm",
+            "Rarity": 0.3,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 1,
+            "MaxAmmoCapacity": 10,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "PZB39.Billiam"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          },
+          {
+            "Category": "Firearm",
+            "Rarity": 0.3,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 1,
+            "MaxAmmoCapacity": 10,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "potatoesBoysATGun"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          }
+        ]
       },
       "BackupGroup": null
     },
@@ -4706,7 +5493,7 @@
       "SpawnsInLargeCase": false,
       "PrimaryGroup": {
         "Category": "Firearm",
-        "Rarity": 1,
+        "Rarity": 1.0,
         "RequiredQuest": null,
         "ItemsToSpawn": 1,
         "MinAmmoCapacity": 1,
@@ -4720,7 +5507,6 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "Type97.Billiam",
           "PTRS.arp"
         ],
         "Eras": [],
@@ -4741,7 +5527,46 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": null
+        "SubGroups": [
+          {
+            "Category": "Firearm",
+            "Rarity": 0.4,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 1,
+            "MaxAmmoCapacity": 10,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "Type97.Billiam"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          }
+        ]
       },
       "BackupGroup": null
     },
@@ -5322,7 +6147,7 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": null
+        "SubGroups": []
       },
       "BackupGroup": null
     },
@@ -5595,14 +6420,6 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "ScopeK98kZielacht",
-          "ScopeMosinPU",
-          "ScopeSVT40PU",
-          "NWSVTPuScope",
-          "ScopeAPXL806",
-          "MagnifierPSO1",
-          "potatoesZF4Scope",
-          "fg42_scope",
           "ScopePython",
           "ScopeLeeEnfield",
           "ScopeM1CarbineM84",
@@ -5630,7 +6447,205 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": null
+        "SubGroups": [
+          {
+            "Category": "Attachment",
+            "Rarity": 1,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": -1,
+            "MaxAmmoCapacity": -1,
+            "NumMagsSpawned": -1,
+            "NumClipsSpawned": -1,
+            "NumRoundsSpawned": -1,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.0,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "ScopeK98kZielacht",
+              "ScopeAPXL806",
+              "MagnifierPSO1",
+              "potatoesZF4Scope",
+              "fg42_scope"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": [
+              {
+                "Category": "Attachment",
+                "Rarity": 1,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": -1,
+                "MaxAmmoCapacity": -1,
+                "NumMagsSpawned": -1,
+                "NumClipsSpawned": -1,
+                "NumRoundsSpawned": -1,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.0,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "FSCE.Mosin.SniperGear.PUScope"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": [
+                  {
+                    "Category": "Attachment",
+                    "Rarity": 0.0,
+                    "RequiredQuest": null,
+                    "ItemsToSpawn": 1,
+                    "MinAmmoCapacity": -1,
+                    "MaxAmmoCapacity": -1,
+                    "NumMagsSpawned": -1,
+                    "NumClipsSpawned": -1,
+                    "NumRoundsSpawned": -1,
+                    "SpawnMagAndClip": false,
+                    "BespokeAttachmentChance": 0.0,
+                    "IsCompatibleMagazine": false,
+                    "AutoPopulateGroup": false,
+                    "ForceSpawnAllSubPools": false,
+                    "IDOverride": [
+                      "ScopeMosinPU"
+                    ],
+                    "Eras": [],
+                    "Sets": [
+                      "Real"
+                    ],
+                    "Sizes": [],
+                    "Actions": [],
+                    "Modes": [],
+                    "ExcludedModes": [],
+                    "FeedOptions": [],
+                    "MountsAvailable": [],
+                    "RoundPowers": [],
+                    "Features": [],
+                    "MeleeStyles": [],
+                    "MeleeHandedness": [],
+                    "MountTypes": [],
+                    "PowerupTypes": [],
+                    "ThrownTypes": [],
+                    "ThrownDamageTypes": [],
+                    "SubGroups": []
+                  }
+                ]
+              },
+              {
+                "Category": "Attachment",
+                "Rarity": 1,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": -1,
+                "MaxAmmoCapacity": -1,
+                "NumMagsSpawned": -1,
+                "NumClipsSpawned": -1,
+                "NumRoundsSpawned": -1,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.0,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "NWSVTPuScope"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": [
+                  {
+                    "Category": "Attachment",
+                    "Rarity": 0.0,
+                    "RequiredQuest": null,
+                    "ItemsToSpawn": 1,
+                    "MinAmmoCapacity": -1,
+                    "MaxAmmoCapacity": -1,
+                    "NumMagsSpawned": -1,
+                    "NumClipsSpawned": -1,
+                    "NumRoundsSpawned": -1,
+                    "SpawnMagAndClip": false,
+                    "BespokeAttachmentChance": 0.0,
+                    "IsCompatibleMagazine": false,
+                    "AutoPopulateGroup": false,
+                    "ForceSpawnAllSubPools": false,
+                    "IDOverride": [
+                      "ScopeSVT40PU"
+                    ],
+                    "Eras": [],
+                    "Sets": [
+                      "Real"
+                    ],
+                    "Sizes": [],
+                    "Actions": [],
+                    "Modes": [],
+                    "ExcludedModes": [],
+                    "FeedOptions": [],
+                    "MountsAvailable": [],
+                    "RoundPowers": [],
+                    "Features": [],
+                    "MeleeStyles": [],
+                    "MeleeHandedness": [],
+                    "MountTypes": [],
+                    "PowerupTypes": [],
+                    "ThrownTypes": [],
+                    "ThrownDamageTypes": [],
+                    "SubGroups": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       },
       "BackupGroup": null
     },
@@ -5645,7 +6660,7 @@
       "SpawnsInLargeCase": false,
       "PrimaryGroup": {
         "Category": "Thrown",
-        "Rarity": 1,
+        "Rarity": 1.0,
         "RequiredQuest": null,
         "ItemsToSpawn": 1,
         "MinAmmoCapacity": 0,
@@ -5659,20 +6674,11 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "Stielhandgranate",
-          "PinnedGrenadeF1M1916",
-          "F-1 Russia (Memastered)",
-          "PinnedGrenadeF1Russia",
           "PinnedGrenadeM26",
-          "PinnedGrenadeRG42",
-          "PinnedGrenadeRG5",
-          "PinnedGrenadeFMK2",
           "PinnedGrenadeMk2",
           "PinnedGrenadeM67",
           "PinnedGrenadeMkVGasGrenade",
-          "Molotov",
-          "ftw.grenade.m14Incend",
-          "Volksterism_BundleGrenade"
+          "ftw.grenade.m14Incend"
         ],
         "Eras": [],
         "Sets": [
@@ -5692,7 +6698,130 @@
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
-        "SubGroups": null
+        "SubGroups": [
+          {
+            "Category": "Thrown",
+            "Rarity": 1.0,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 0,
+            "MaxAmmoCapacity": 0,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 3,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.0,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "Stielhandgranate",
+              "PinnedGrenadeF1M1916",
+              "PinnedGrenadeF1Russia",
+              "PinnedGrenadeRG42",
+              "PinnedGrenadeRG5",
+              "Volksterism_BundleGrenade",
+              "Molotov"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": [
+              {
+                "Category": "Thrown",
+                "Rarity": 1.0,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": 0,
+                "MaxAmmoCapacity": 0,
+                "NumMagsSpawned": 3,
+                "NumClipsSpawned": 3,
+                "NumRoundsSpawned": 3,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.0,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "F-1 Russia (Memastered)"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": [
+                  {
+                    "Category": "Thrown",
+                    "Rarity": 0.0,
+                    "RequiredQuest": null,
+                    "ItemsToSpawn": 1,
+                    "MinAmmoCapacity": 0,
+                    "MaxAmmoCapacity": 0,
+                    "NumMagsSpawned": 3,
+                    "NumClipsSpawned": 3,
+                    "NumRoundsSpawned": 3,
+                    "SpawnMagAndClip": false,
+                    "BespokeAttachmentChance": 0.0,
+                    "IsCompatibleMagazine": false,
+                    "AutoPopulateGroup": false,
+                    "ForceSpawnAllSubPools": false,
+                    "IDOverride": [
+                      "PinnedGrenadeF1Russia"
+                    ],
+                    "Eras": [],
+                    "Sets": [
+                      "Real"
+                    ],
+                    "Sizes": [],
+                    "Actions": [],
+                    "Modes": [],
+                    "ExcludedModes": [],
+                    "FeedOptions": [],
+                    "MountsAvailable": [],
+                    "RoundPowers": [],
+                    "Features": [],
+                    "MeleeStyles": [],
+                    "MeleeHandedness": [],
+                    "MountTypes": [],
+                    "PowerupTypes": [],
+                    "ThrownTypes": [],
+                    "ThrownDamageTypes": [],
+                    "SubGroups": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       },
       "BackupGroup": null
     },
