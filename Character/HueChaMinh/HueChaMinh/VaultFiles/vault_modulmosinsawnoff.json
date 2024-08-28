@@ -1,0 +1,58 @@
+{
+  "FileName": "vault_modulmosinsawnoff",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": 0.0,
+  "SpeedForward": 0.0,
+  "SpringStiffness": 0.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "FSCE.Mosin.Mosin",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False",
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0",
+        "ModulBarrel": "200mm Barrel",
+        "ModulStock": "Sniper Stock (Sawn-Off)",
+        "ModulFSCE.Mosin.Recievers": "Sniper Reciever",
+        "ModulFSCE.Mosin.Bolt": "Sniper Bolt",
+        "ModulFSCE.Mosin.Muzzles": "No Muzzle Brake",
+        "ModulGrips_AR": "No Pistol Grip",
+        "FSCE.Mosin.Mosin/Receiver": "Default",
+        "FSCE.Mosin.Barrels/200mm Barrel": "Default",
+        "FSCE.Mosin.Bolt/Sniper Bolt": "Default",
+        "FSCE.Mosin.Muzzles/No Muzzle Brake": "Default",
+        "FSCE.Mosin.Recievers/Sniper Reciever": "Default",
+        "FSCE.Mosin.Stocks/Sniper Stock (Sawn-Off)": "Default",
+        "Grips_AR/No Pistol Grip": "Default"
+      }
+    }
+  ]
+}

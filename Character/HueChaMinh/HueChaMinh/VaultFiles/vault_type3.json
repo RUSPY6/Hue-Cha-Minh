@@ -1,0 +1,166 @@
+{
+  "FileName": "vault_type3",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -4.0,
+  "SpeedForward": 2.2,
+  "SpringStiffness": 150.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": -105.0,
+      "ModeType": "Safe",
+      "BurstAmount": 0
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "NWType3",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False",
+        "HammerState": "Uncocked"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "NWType3Fore",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0559999421,
+        "z": 0.303000063
+      },
+      "OrientationForward": {
+        "x": 1.11022281E-15,
+        "y": -2.98023188E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -7.45058E-08,
+        "y": 1.0,
+        "z": 2.98023188E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 5,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 2,
+      "ObjectID": "NWType3Grip",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.007499962,
+        "z": -0.009200019
+      },
+      "OrientationForward": {
+        "x": -1.04308128E-07,
+        "y": -2.235174E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -2.980232E-08,
+        "y": -1.0,
+        "z": -2.23517436E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 6,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 3,
+      "ObjectID": "NWType3Stock",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0275000986,
+        "z": -0.0486999229
+      },
+      "OrientationForward": {
+        "x": -2.198242E-13,
+        "y": 4.91738365E-06,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -8.94069743E-08,
+        "y": 1.0,
+        "z": -4.91738365E-06
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 4,
+      "ObjectID": "NWType3Dust",
+      "PosOffset": {
+        "x": 0.00199995656,
+        "y": 0.06440005,
+        "z": -0.0460000932
+      },
+      "OrientationForward": {
+        "x": 2.98023171E-08,
+        "y": 9.313224E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -5.21540571E-08,
+        "y": 1.0,
+        "z": -9.313224E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 7,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    }
+  ]
+}

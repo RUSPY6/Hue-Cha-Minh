@@ -1,0 +1,195 @@
+{
+  "FileName": "vault_rpk",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -4.0,
+  "SpeedForward": 2.2,
+  "SpringStiffness": 150.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": -105.0,
+      "ModeType": "Safe",
+      "BurstAmount": 0
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "NWRPK",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False",
+        "HammerState": "Uncocked"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "NWRPKStock",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0275000986,
+        "z": -0.04869994
+      },
+      "OrientationForward": {
+        "x": 1.47437645E-13,
+        "y": 4.947186E-06,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 5.960465E-08,
+        "y": 1.0,
+        "z": -4.947186E-06
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 2,
+      "ObjectID": "NWRPKBipod",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.046300143,
+        "z": 0.714210033
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.98023259E-08,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 3,
+      "ObjectID": "NWType3Fore",
+      "PosOffset": {
+        "x": 1.192087E-07,
+        "y": 0.0559999421,
+        "z": 0.302999973
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.98023259E-08,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 5,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 4,
+      "ObjectID": "NWType3Grip",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.007500097,
+        "z": -0.009200067
+      },
+      "OrientationForward": {
+        "x": -5.96046448E-08,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 6,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 5,
+      "ObjectID": "NWRPKDust",
+      "PosOffset": {
+        "x": 0.00199996447,
+        "y": 0.06440001,
+        "z": -0.0460000969
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.98023259E-08,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 7,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    }
+  ]
+}

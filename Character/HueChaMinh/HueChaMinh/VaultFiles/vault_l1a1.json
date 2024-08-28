@@ -1,0 +1,346 @@
+{
+  "FileName": "vault_l1a1",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -3.0,
+  "SpeedForward": 3.0,
+  "SpringStiffness": 150.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": -54.0,
+      "ModeType": "Safe",
+      "BurstAmount": 0
+    },
+    {
+      "SelectorPosition": -87.0,
+      "ModeType": "Single",
+      "BurstAmount": 0
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "NWSLR1",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False",
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "NWL1Guard",
+      "PosOffset": {
+        "x": 0.0008000057,
+        "y": 0.05850007,
+        "z": 0.202120051
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 2,
+      "ObjectID": "NWFALFoldHandle",
+      "PosOffset": {
+        "x": -0.0235099867,
+        "y": 0.0465700664,
+        "z": 0.174240127
+      },
+      "OrientationForward": {
+        "x": 2.08616257E-06,
+        "y": 1.00000024,
+        "z": 4.58955765E-06
+      },
+      "OrientationUp": {
+        "x": -1.00000036,
+        "y": 1.78813934E-06,
+        "z": 4.172325E-07
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 7,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 3,
+      "ObjectID": "NWFALStdBarrel",
+      "PosOffset": {
+        "x": 0.000200031223,
+        "y": 0.0496699736,
+        "z": 0.188239932
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 4,
+      "ObjectID": "NWL1Grip",
+      "PosOffset": {
+        "x": 0.000769965234,
+        "y": 0.00768002961,
+        "z": -0.004630045
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": -0.121869475,
+        "z": 0.992546141
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": -0.9925461,
+        "z": -0.121869475
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 5,
+      "ObjectID": "NWL1Stock",
+      "PosOffset": {
+        "x": 0.000939956,
+        "y": 0.04789996,
+        "z": -0.07599997
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 6,
+      "ObjectID": "NWFALFrontSwivel",
+      "PosOffset": {
+        "x": -0.000299927633,
+        "y": 0.0481699668,
+        "z": 0.528039932
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 3,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 7,
+      "ObjectID": "NWL1Muzzle",
+      "PosOffset": {
+        "x": 0.0005000781,
+        "y": 0.0496699736,
+        "z": 0.619910061
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 3,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 8,
+      "ObjectID": "NWFALGasSLR",
+      "PosOffset": {
+        "x": 0.000200031223,
+        "y": 0.0501700528,
+        "z": 0.485140264
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 3,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 9,
+      "ObjectID": "NWFalDust",
+      "PosOffset": {
+        "x": -0.000300046842,
+        "y": 0.0604999773,
+        "z": -0.0418999977
+      },
+      "OrientationForward": {
+        "x": 2.98023188E-08,
+        "y": -5.96046377E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -2.98023188E-08,
+        "y": 1.0,
+        "z": 5.96046377E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    },
+    {
+      "Index": 10,
+      "ObjectID": "NWL1Sight",
+      "PosOffset": {
+        "x": 0.00073003053,
+        "y": 0.0698200241,
+        "z": -0.0607999749
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -1.04308128E-07,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 5,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    }
+  ]
+}
