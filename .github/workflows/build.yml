@@ -27,3 +27,14 @@ jobs:
         with:
           name: DootyEnjoyer6-Hue_Cha_Minh
           path: DootyEnjoyer6-Hue_Cha_Minh
+
+      - name: Package Modpack
+        run: |
+          mv Modpack/ DootyEnjoyer6-Hue_Cha_Minh_Content_Pack
+          ls
+
+      - name: Upload Package
+        uses: actions/upload-artifact@v2
+        with:
+          name: DootyEnjoyer6-Hue_Cha_Minh_Content_Pack
+          path: DootyEnjoyer6-Hue_Cha_Minh_Content_Pack
