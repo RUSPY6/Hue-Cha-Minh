@@ -1,5 +1,5 @@
 
-name: Build Character
+name: Build Mods
 
 on:
   push:
@@ -16,14 +16,10 @@ jobs:
 
       - name: Package Character
         run: |
-          mkdir DootyEnjoyer6-Hue_Cha_Minh
-          cp Character/manifest.json DootyEnjoyer6-Hue_Cha_Minh/
-          cp Character/CHANGELOG.md DootyEnjoyer6-Hue_Cha_Minh/
-          cp Character/README.md DootyEnjoyer6-Hue_Cha_Minh/
-          cp Character/icon.png DootyEnjoyer6-Hue_Cha_Minh/
           cd Character/HueChaMinh ; zip -r ../HueChaMinh.zip . * ; cd ..
           mv HueChaMinh.zip HueChaMinh.deli
-          cp HueChaMinh.deli DootyEnjoyer6-Hue_Cha_Minh/
+          rm -rf HueChaMinh/
+          cd .. ; mv Character/ DootyEnjoyer6-Hue_Cha_Minh/
           ls
 
       - name: Upload Package
