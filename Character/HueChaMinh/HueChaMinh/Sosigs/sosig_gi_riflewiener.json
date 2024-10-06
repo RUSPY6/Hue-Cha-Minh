@@ -241,7 +241,7 @@
     "SosigMelee_Kabar"
   ],
   "WeaponOptionsTertiary": [
-	"Sosiggrenade_Frag"
+    "Sosiggrenade_Frag"
   ],
   "SecondaryChance": 0.9,
   "TertiaryChance": 0.2,
@@ -262,8 +262,8 @@
     "AutoPopulateGroup": false,
     "ForceSpawnAllSubPools": false,
     "IDOverride": [
-	  "US_Gear Rifleman_424316",
-	  "US_headgear_var1_54352123154521"
+      "US_Gear Rifleman_424316",
+      "US_headgear_var1_54352123154521"
 	],
     "Eras": [],
     "Sets": [],

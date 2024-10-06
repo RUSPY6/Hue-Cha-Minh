@@ -232,21 +232,21 @@
   ],
   "WeaponOptions": [
     "SosiggunMac11Suppressed",
-	"Sosiggun_Mac11",
-	"Sosiggun_Uzi",
-	"Sosiggun_AKM",
-	"Sosiggun_M16",
-	"Sosiggun_M60"
+    "Sosiggun_Mac11",
+    "Sosiggun_Uzi",
+    "Sosiggun_AKM",
+    "Sosiggun_M16",
+    "Sosiggun_M60"
   ],
   "WeaponOptionsSecondary": [
     "Sosiggun_M1911",
-	"Sosiggun_Revolver"
+    "Sosiggun_Revolver"
   ],
   "WeaponOptionsTertiary": [
     "Sosiggrenade_Incendiary",
     "Sosiggrenade_Frag",
-	"Sosiggrenade_Smoke",
-	"SosigMelee_Kabar"
+    "Sosiggrenade_Smoke",
+    "SosigMelee_Kabar"
   ],
   "SecondaryChance": 1.0,
   "TertiaryChance": 1.0,
@@ -267,9 +267,9 @@
     "AutoPopulateGroup": false,
     "ForceSpawnAllSubPools": false,
     "IDOverride": [
-	  "US_Gear_Long_Commander_424316",
-	  "US_headgear_var1_54352123154521",
-	  "M18AirStrike Napalm"
+      "US_Gear_Long_Commander_424316",
+      "US_headgear_var1_54352123154521",
+      "M18AirStrike Napalm"
 	],
     "Eras": [],
     "Sets": [],

@@ -203,7 +203,7 @@
       "Chance_Headwear": 1.0,
       "ForceWearAllHead": false,
       "Eyewear": [
-	    "SosigSunglassesAviatorColorset1"
+        "SosigSunglassesAviatorColorset1"
 	  ],
       "Chance_Eyewear": 0.1,
       "ForceWearAllEye": false,
@@ -240,13 +240,13 @@
   ],
   "WeaponOptionsSecondary": [
     "Sosiggun_M1911",
-	"Sosiggun_Revolver",
-	"Sosiggun_M1Carbine",
-	"Sosiggun_W1897"
+    "Sosiggun_Revolver",
+    "Sosiggun_M1Carbine",
+    "Sosiggun_W1897"
   ],
   "WeaponOptionsTertiary": [
-	"Sosiggrenade_Incendiary",
-	"SosigMelee_Kabar"
+    "Sosiggrenade_Incendiary",
+    "SosigMelee_Kabar"
   ],
   "SecondaryChance": 1.0,
   "TertiaryChance": 1.0,
@@ -267,10 +267,10 @@
     "AutoPopulateGroup": false,
     "ForceSpawnAllSubPools": false,
     "IDOverride": [
-	  "US_Headgear_Kill_mo_54352123154521",
-	  "US_headgear_var1_54352123154521",
-	  "US_Gear_Long_Commander_424316",
-	  "US_Gear Rifleman_424316"
+      "US_Headgear_Kill_mo_54352123154521",
+      "US_headgear_var1_54352123154521",
+      "US_Gear_Long_Commander_424316",
+      "US_Gear Rifleman_424316"
 	],
     "Eras": [],
     "Sets": [],
