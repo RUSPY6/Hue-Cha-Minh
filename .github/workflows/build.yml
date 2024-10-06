@@ -12,7 +12,7 @@ jobs:
     steps:
 
       - name: Checkout Repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Package Character
         run: |
@@ -23,7 +23,7 @@ jobs:
           ls
 
       - name: Upload Package
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: DootyEnjoyer6-Hue_Cha_Minh
           path: DootyEnjoyer6-Hue_Cha_Minh
@@ -34,7 +34,7 @@ jobs:
           ls
 
       - name: Upload Package
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: DootyEnjoyer6-Hue_Cha_Minh_Content_Pack
           path: DootyEnjoyer6-Hue_Cha_Minh_Content_Pack
