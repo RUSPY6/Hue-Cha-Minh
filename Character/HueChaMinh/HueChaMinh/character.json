@@ -691,7 +691,7 @@
       "RoundWhitelist": []
     },
     {
-      "FirearmID": "Colt_M16A1_slick_Receiver_34154",
+      "FirearmID": "Ult_ar15_proto",
       "MagazineBlacklist": [
         "MagazineStanag5rnd",
         "MagazineStanag10rnd",
@@ -823,7 +823,139 @@
       "RoundWhitelist": []
     },
     {
-      "FirearmID": "Colt_M16A1_Receiver_5421",
+      "FirearmID": "Colt_XM177_643221",
+      "MagazineBlacklist": [
+        "MagazineStanag5rnd",
+        "MagazineStanag10rnd",
+        "MagazineStoner63AR",
+        "ARMagPMAG",
+        "ARMagPMAG10",
+        "ARMagPMAG20",
+        "ARMagPMAG40",
+        "ARMagPMAGFDE",
+        "ARMagPMAG40FDE",
+        "ARMagPMAGWindow",
+        "ARMagPMAGWindowFDE",
+        "ARMagPMAGGry",
+        "ARMagPMAGNIKPAT",
+        "ARMagPMAGOD",
+        "ARMagPMAGWindowGry",
+        "ARMagPMAGWindowNIKPAT",
+        "ARMagPMAGWindowOD",
+        "MagazineH416D60",
+        "MagazineH416PMAG",
+        "ARMagMeatsPMAGylw",
+        "MagazineStanagDrum",
+        "ARMagStanag10",
+        "ARMagStanagylw",
+        "MagazineStanag60rnd",
+        "ARMagMeatsStanagFDE",
+        "MagazineAK5c",
+        "MagazineBren806",
+        "MagazineStanag100rnd",
+        "LancerBlk20",
+        "LancerFDE20",
+        "LancerMelon20",
+        "LancerTrans20",
+        "LancerTransBlk20",
+        "LancerTransFDE20",
+        "MagazineHexBlk",
+        "MagazineHexCANPAT",
+        "MagazineHexFDE",
+        "MagazineHexGry",
+        "MagazineHexMELPAT",
+        "MagazineHexOD",
+        "ARMagBattlemag",
+        "ARMagEMAGBlk",
+        "ARMagEMAGFDE",
+        "ARMagHKGen2",
+        "ARMagLancerBananaTrans",
+        "ARMagLancerBlk",
+        "ARMagLancerBlkTrans",
+        "ARMagLancerBluTrans",
+        "ARMagLancerDeepBluTrans",
+        "ARMagLancerFDE",
+        "ARMagLancerFDETrans",
+        "ARMagLancerGrnTrans",
+        "ARMagLancerRedTrans",
+        "ARMagLancerSafetyTrans",
+        "ARMagLancerTrans",
+        "ARMagMelonMag",
+        "ARMagSF100",
+        "ARMagSF60",
+        "ARMagLancerPurple",
+        "KiloStanag",
+        "KiloDrum",
+        "Kilo60",
+        "modulhksteel",
+        "hkpmag60",
+        "MagazineStanag3",
+        "ARMagStanag",
+        "ARMagStanagBrn",
+        "ARMagStrikeMag",
+        "ARMagPMAGDIKPAT",
+        "ARMagPMAGNIKPAT",
+        "MagazineStanagCanadian30rnd",
+        "MagazineStanagEMWindow30rnd",
+        "MagazineStanagHBoat10rnd",
+        "MagazineStanagHBoat20rnd",
+        "MagazineStanagHBoat30rnd",
+        "MagazineStanagPDDrum60rnd",
+        "MagazineStanagPM10rnd",
+        "MagazineStanagPM10rndFDE",
+        "MagazineStanagPM20rnd",
+        "MagazineStanagPM20rndFDE",
+        "MagazineStanagPM30rnd",
+        "MagazineStanagPM30rndFakelite",
+        "MagazineStanagPM30rndFDE",
+        "MagazineStanagPM40rnd",
+        "MagazineStanagPM40rndBanana",
+        "MagazineStanagPM40rndFDE",
+        "MagazineStanagPMWindow30rnd",
+        "MagazineStanagPMWindow30rndFDE",
+        "MagazineStanagSM100rnd",
+        "MagazineStanagSM60rnd",
+        "MagazineStanagSMDrum100rnd",
+        "MagazineStanagSMDrum150rnd",
+        "MagazineStanagUSGI10rnd",
+        "MagazineStanagUSGI30rndCustom",
+        "MagazineStanagUSGI40rnd",
+        "MagazineStanagUSGI55rnd",
+        "MagazineStanagUSGI5rnd",
+        "ARMagHKGen2FDE",
+        "ARMagPMAGWindowDIKPAT",
+        "ARMagStanagGry",
+        "Magazine_EMAG_30Window",
+        "Magazine_Hexmag_30",
+        "Magazine_HK_Gen2",
+        "Magazine_HK_Gen3",
+        "Magazine_Lancer_20",
+        "Magazine_Lancer_30",
+        "Magazine_MFT_Polymer",
+        "Magazine_PMAG_10",
+        "Magazine_PMAG_20",
+        "Magazine_PMAG_30",
+        "Magazine_PMAG_30Window",
+        "Magazine_PMAG_40",
+        "Magazine_PMAG_D60",
+        "Magazine_Strike_33",
+        "Magazine_Surefeed",
+        "Magazine_Surefire_100",
+        "Magazine_Surefire_60",
+        "Magazine_Troy_Battlemag",
+        "Magazine_USGI_10",
+        "Magazine_USGI_20",
+        "Magazine_USGI_30",
+        "Magazine_USGI_EPM"
+      ],
+      "MagazineWhitelist": [],
+      "ClipBlacklist": [],
+      "ClipWhitelist": [],
+      "RoundBlacklist": [],
+      "RoundWhitelist": []
+    },
+    {
+      "FirearmID": "Colt_607_Receiver_34213",
       "MagazineBlacklist": [
         "MagazineStanag5rnd",
         "MagazineStanag10rnd",
@@ -1061,6 +1193,72 @@
       "FirearmID": "potatoesAKMunderfolder",
       "MagazineBlacklist": [
         "MagazineAKM10",
+        "MagazineAKMTactical10rnd",
+        "MagazineAKMTactical20rnd",
+        "MagazineAKMTactical",
+        "MagazineAKMGold",
+        "MagazineAKMHeirloom",
+        "MagazineAK103",
+        "MagazineAKMPmag",
+        "MagazineAKMPmagFDE",
+        "MagazinePalmBLK",
+        "MagazinePalmFDE",
+        "MagazineBanana",
+        "MagazineX47",
+        "AKAlfaMag",
+        "MagazineStalked762",
+        "MagazineUltimagBlk",
+        "MagazineUltimagFDE",
+        "NWAK103MagMel",
+        "NWAK15Mag",
+        "NWAKDrum",
+        "NWPinAKMag",
+        "NWSingle762"
+      ],
+      "MagazineWhitelist": [],
+      "ClipBlacklist": [],
+      "ClipWhitelist": [],
+      "RoundBlacklist": [],
+      "RoundWhitelist": []
+    },
+    {
+      "FirearmID": "Type1AK",
+      "MagazineBlacklist": [
+        "MagazineAKM10",
+        "MagazineAKMStd",
+        "MagazineAKMTactical10rnd",
+        "MagazineAKMTactical20rnd",
+        "MagazineAKMTactical",
+        "MagazineAKMGold",
+        "MagazineAKMHeirloom",
+        "MagazineAK103",
+        "MagazineAKMPmag",
+        "MagazineAKMPmagFDE",
+        "MagazinePalmBLK",
+        "MagazinePalmFDE",
+        "MagazineBanana",
+        "MagazineX47",
+        "AKAlfaMag",
+        "MagazineStalked762",
+        "MagazineUltimagBlk",
+        "MagazineUltimagFDE",
+        "NWAK103MagMel",
+        "NWAK15Mag",
+        "NWAKDrum",
+        "NWPinAKMag",
+        "NWSingle762"
+      ],
+      "MagazineWhitelist": [],
+      "ClipBlacklist": [],
+      "ClipWhitelist": [],
+      "RoundBlacklist": [],
+      "RoundWhitelist": []
+    },
+    {
+      "FirearmID": "LunaType3",
+      "MagazineBlacklist": [
+        "MagazineAKM10",
+        "MagazineAKMStd",
         "MagazineAKMTactical10rnd",
         "MagazineAKMTactical20rnd",
         "MagazineAKMTactical",
@@ -1496,6 +1694,17 @@
       "ClipWhitelist": [],
       "RoundBlacklist": [],
       "RoundWhitelist": []
+    },
+    {
+      "FirearmID": "Vz68Skorpion.tt",
+      "MagazineBlacklist": [
+        "Vz68Drum40rnd.tt"
+      ],
+      "MagazineWhitelist": [],
+      "ClipBlacklist": [],
+      "ClipWhitelist": [],
+      "RoundBlacklist": [],
+      "RoundWhitelist": []
     }
   ],
   "RequireSightTable": {
@@ -1611,7 +1820,9 @@
             "Hamada2.Billiam",
             "FN1903.Billiam",
             "cz27.Billiam",
-            "Dev_Type14"
+            "Dev_Type14",
+            "MAIN_Type14",
+            "WelrodMkIIa"
           ],
           "Eras": [],
           "Sets": [
@@ -1744,86 +1955,86 @@
                   "SubGroups": []
                 }
               ]
+            },
+            {
+              "Category": "Firearm",
+              "Rarity": 1.0,
+              "RequiredQuest": null,
+              "ItemsToSpawn": 1,
+              "MinAmmoCapacity": 6,
+              "MaxAmmoCapacity": 10,
+              "NumMagsSpawned": 3,
+              "NumClipsSpawned": 3,
+              "NumRoundsSpawned": 10,
+              "SpawnMagAndClip": false,
+              "BespokeAttachmentChance": 0.0,
+              "IsCompatibleMagazine": false,
+              "AutoPopulateGroup": false,
+              "ForceSpawnAllSubPools": false,
+              "IDOverride": [
+                "M1895Nagant",
+                "NagantOfficer.Billiam"
+              ],
+              "Eras": [],
+              "Sets": [
+                "Real"
+              ],
+              "Sizes": [],
+              "Actions": [],
+              "Modes": [],
+              "ExcludedModes": [],
+              "FeedOptions": [],
+              "MountsAvailable": [],
+              "RoundPowers": [],
+              "Features": [],
+              "MeleeStyles": [],
+              "MeleeHandedness": [],
+              "MountTypes": [],
+              "PowerupTypes": [],
+              "ThrownTypes": [],
+              "ThrownDamageTypes": [],
+              "SubGroups": []
+            },
+            {
+              "Category": "Firearm",
+              "Rarity": 0.6,
+              "RequiredQuest": null,
+              "ItemsToSpawn": 1,
+              "MinAmmoCapacity": 6,
+              "MaxAmmoCapacity": 10,
+              "NumMagsSpawned": 3,
+              "NumClipsSpawned": 3,
+              "NumRoundsSpawned": 10,
+              "SpawnMagAndClip": false,
+              "BespokeAttachmentChance": 0.0,
+              "IsCompatibleMagazine": false,
+              "AutoPopulateGroup": false,
+              "ForceSpawnAllSubPools": false,
+              "IDOverride": [
+                "EnfieldNo2MkI.Muzz",
+                "EnfieldNo2MkIStar.Muzz"
+              ],
+              "Eras": [],
+              "Sets": [
+                "Real"
+              ],
+              "Sizes": [],
+              "Actions": [],
+              "Modes": [],
+              "ExcludedModes": [],
+              "FeedOptions": [],
+              "MountsAvailable": [],
+              "RoundPowers": [],
+              "Features": [],
+              "MeleeStyles": [],
+              "MeleeHandedness": [],
+              "MountTypes": [],
+              "PowerupTypes": [],
+              "ThrownTypes": [],
+              "ThrownDamageTypes": [],
+              "SubGroups": []
             }
           ]
-        },
-        {
-          "Category": "Firearm",
-          "Rarity": 1.0,
-          "RequiredQuest": null,
-          "ItemsToSpawn": 1,
-          "MinAmmoCapacity": 6,
-          "MaxAmmoCapacity": 10,
-          "NumMagsSpawned": 3,
-          "NumClipsSpawned": 3,
-          "NumRoundsSpawned": 10,
-          "SpawnMagAndClip": false,
-          "BespokeAttachmentChance": 0.0,
-          "IsCompatibleMagazine": false,
-          "AutoPopulateGroup": false,
-          "ForceSpawnAllSubPools": false,
-          "IDOverride": [
-            "M1895Nagant",
-            "NagantOfficer.Billiam"
-          ],
-          "Eras": [],
-          "Sets": [
-            "Real"
-          ],
-          "Sizes": [],
-          "Actions": [],
-          "Modes": [],
-          "ExcludedModes": [],
-          "FeedOptions": [],
-          "MountsAvailable": [],
-          "RoundPowers": [],
-          "Features": [],
-          "MeleeStyles": [],
-          "MeleeHandedness": [],
-          "MountTypes": [],
-          "PowerupTypes": [],
-          "ThrownTypes": [],
-          "ThrownDamageTypes": [],
-          "SubGroups": []
-        },
-        {
-          "Category": "Firearm",
-          "Rarity": 1.0,
-          "RequiredQuest": null,
-          "ItemsToSpawn": 1,
-          "MinAmmoCapacity": 6,
-          "MaxAmmoCapacity": 10,
-          "NumMagsSpawned": 3,
-          "NumClipsSpawned": 3,
-          "NumRoundsSpawned": 10,
-          "SpawnMagAndClip": false,
-          "BespokeAttachmentChance": 0.0,
-          "IsCompatibleMagazine": false,
-          "AutoPopulateGroup": false,
-          "ForceSpawnAllSubPools": false,
-          "IDOverride": [
-            "EnfieldNo2MkI.Muzz",
-            "EnfieldNo2MkIStar.Muzz"
-          ],
-          "Eras": [],
-          "Sets": [
-            "Real"
-          ],
-          "Sizes": [],
-          "Actions": [],
-          "Modes": [],
-          "ExcludedModes": [],
-          "FeedOptions": [],
-          "MountsAvailable": [],
-          "RoundPowers": [],
-          "Features": [],
-          "MeleeStyles": [],
-          "MeleeHandedness": [],
-          "MountTypes": [],
-          "PowerupTypes": [],
-          "ThrownTypes": [],
-          "ThrownDamageTypes": [],
-          "SubGroups": []
         },
         {
           "Category": "Firearm",
@@ -1843,15 +2054,18 @@
           "IDOverride": [
             "M4Survival",
             "M6Survival",
-            "WelrodMkIIa",
             "Lebel1886Rifle",
             "RifBAType38",
             "Dev_Type38",
             "Dev_Type99",
             "Arisaka99.Billiam",
             "Murata.Billiam",
+            "Murata22.Billiam",
             "MAS36.Billiam",
-            "K98KObrez.Billiam"
+            "Dreyse.Billiam",
+            "Chassepot",
+            "K98KObrez.Billiam",
+            "Gras.Billiam"
           ],
           "Eras": [],
           "Sets": [
@@ -2292,7 +2506,7 @@
   "EquipmentPools": [
     {
       "Type": "Firearm",
-      "IconName": "east_basniperrifle.png",
+      "IconName": "north_basniperrifle.png",
       "TokenCost": 1,
       "TokenCostLimited": 1,
       "MinLevelAppears": 0,
@@ -2381,7 +2595,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_basniperrifle.png",
+      "IconName": "south_basniperrifle.png",
       "TokenCost": 1,
       "TokenCostLimited": 1,
       "MinLevelAppears": 0,
@@ -2511,7 +2725,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_bashotgun.png",
+      "IconName": "north_bashotgun.png",
       "TokenCost": 1,
       "TokenCostLimited": 1,
       "MinLevelAppears": 0,
@@ -2639,7 +2853,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_darevolver.png",
+      "IconName": "south_darevolver.png",
       "TokenCost": 1,
       "TokenCostLimited": 1,
       "MinLevelAppears": 0,
@@ -2670,7 +2884,8 @@
           "SW25.Muzz",
           "toner.sw224",
           "SW27.Billiam",
-          "ColtNewService.Billiam"
+          "ColtNewService.Billiam",
+          "NewService357.Billiam"
         ],
         "Eras": [],
         "Sets": [
@@ -2772,7 +2987,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_sapistol.png",
+      "IconName": "north_sapistol.png",
       "TokenCost": 3,
       "TokenCostLimited": 3,
       "MinLevelAppears": 0,
@@ -2902,7 +3117,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_sapistol.png",
+      "IconName": "south_sapistol.png",
       "TokenCost": 3,
       "TokenCostLimited": 3,
       "MinLevelAppears": 0,
@@ -3068,7 +3283,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_fapistol.png",
+      "IconName": "north_fapistol.png",
       "TokenCost": 3,
       "TokenCostLimited": 3,
       "MinLevelAppears": 0,
@@ -3187,6 +3402,44 @@
                 "SubGroups": []
               }
             ]
+          },
+          {
+            "Category": "Firearm",
+            "Rarity": 0.3,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 10,
+            "MaxAmmoCapacity": 30,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 1.0,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "Vz68Skorpion.tt"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
           }
         ]
       },
@@ -3194,7 +3447,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_pashotgun.png",
+      "IconName": "south_pashotgun.png",
       "TokenCost": 3,
       "TokenCostLimited": 3,
       "MinLevelAppears": 0,
@@ -3287,7 +3540,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_sashotgun.png",
+      "IconName": "south_sashotgun.png",
       "TokenCost": 4,
       "TokenCostLimited": 4,
       "MinLevelAppears": 1,
@@ -3373,7 +3626,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_sacarbine.png",
+      "IconName": "north_sacarbine.png",
       "TokenCost": 4,
       "TokenCostLimited": 4,
       "MinLevelAppears": 1,
@@ -3461,7 +3714,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_sacarbine.png",
+      "IconName": "south_sacarbine.png",
       "TokenCost": 4,
       "TokenCostLimited": 4,
       "MinLevelAppears": 1,
@@ -3484,8 +3737,7 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "M1Carbine",
-          "potatoesM1A1Paratrooper"
+          "M1Carbine"
         ],
         "Eras": [],
         "Sets": [
@@ -3550,7 +3802,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_smg.png",
+      "IconName": "north_smg.png",
       "TokenCost": 6,
       "TokenCostLimited": 6,
       "MinLevelAppears": 1,
@@ -3605,7 +3857,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_smg.png",
+      "IconName": "south_smg.png",
       "TokenCost": 6,
       "TokenCostLimited": 6,
       "MinLevelAppears": 1,
@@ -3930,7 +4182,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_sabattlerifle.png",
+      "IconName": "north_sabattlerifle.png",
       "TokenCost": 8,
       "TokenCostLimited": 8,
       "MinLevelAppears": 2,
@@ -4212,7 +4464,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_sabattlerifle.png",
+      "IconName": "south_sabattlerifle.png",
       "TokenCost": 8,
       "TokenCostLimited": 8,
       "MinLevelAppears": 2,
@@ -4262,7 +4514,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_lassaultrifle.png",
+      "IconName": "north_lassaultrifle.png",
       "TokenCost": 10,
       "TokenCostLimited": 10,
       "MinLevelAppears": 2,
@@ -4348,7 +4600,7 @@
           },
           {
             "Category": "Firearm",
-            "Rarity": 1.0,
+            "Rarity": 4.0,
             "RequiredQuest": null,
             "ItemsToSpawn": 1,
             "MinAmmoCapacity": 30,
@@ -4363,8 +4615,7 @@
             "ForceSpawnAllSubPools": false,
             "IDOverride": [
               "vault_akm",
-              "vault_akmsn",
-              "vault_type3"
+              "vault_akmsn"
             ],
             "Eras": [],
             "Sets": [
@@ -4387,6 +4638,84 @@
             "SubGroups": [
               {
                 "Category": "Firearm",
+                "Rarity": 0.8,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": 30,
+                "MaxAmmoCapacity": 30,
+                "NumMagsSpawned": 3,
+                "NumClipsSpawned": 3,
+                "NumRoundsSpawned": 8,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.5,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "LunaType3",
+                  "vault_type3"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": [
+                  {
+                    "Category": "Firearm",
+                    "Rarity": 0.4,
+                    "RequiredQuest": null,
+                    "ItemsToSpawn": 1,
+                    "MinAmmoCapacity": 30,
+                    "MaxAmmoCapacity": 30,
+                    "NumMagsSpawned": 3,
+                    "NumClipsSpawned": 3,
+                    "NumRoundsSpawned": 8,
+                    "SpawnMagAndClip": false,
+                    "BespokeAttachmentChance": 0.5,
+                    "IsCompatibleMagazine": false,
+                    "AutoPopulateGroup": false,
+                    "ForceSpawnAllSubPools": false,
+                    "IDOverride": [
+                      "Type1AK"
+                    ],
+                    "Eras": [],
+                    "Sets": [
+                      "Real"
+                    ],
+                    "Sizes": [],
+                    "Actions": [],
+                    "Modes": [],
+                    "ExcludedModes": [],
+                    "FeedOptions": [],
+                    "MountsAvailable": [],
+                    "RoundPowers": [],
+                    "Features": [],
+                    "MeleeStyles": [],
+                    "MeleeHandedness": [],
+                    "MountTypes": [],
+                    "PowerupTypes": [],
+                    "ThrownTypes": [],
+                    "ThrownDamageTypes": [],
+                    "SubGroups": []
+                  }
+                ]
+              },
+              {
+                "Category": "Firearm",
                 "Rarity": 0.0,
                 "RequiredQuest": null,
                 "ItemsToSpawn": 1,
@@ -4401,8 +4730,7 @@
                 "AutoPopulateGroup": false,
                 "ForceSpawnAllSubPools": false,
                 "IDOverride": [
-                  "AKM",
-                  "potatoesAKMunderfolder"
+                  "AKM"
                 ],
                 "Eras": [],
                 "Sets": [
@@ -4432,7 +4760,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_lassaultrifle.png",
+      "IconName": "south_lassaultrifle.png",
       "TokenCost": 10,
       "TokenCostLimited": 10,
       "MinLevelAppears": 2,
@@ -4455,8 +4783,7 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-          "M16",
-          "M16A1"
+          "Stoner63AR"
         ],
         "Eras": [],
         "Sets": [
@@ -4479,7 +4806,7 @@
         "SubGroups": [
           {
             "Category": "Firearm",
-            "Rarity": 0.3,
+            "Rarity": 4.0,
             "RequiredQuest": null,
             "ItemsToSpawn": 1,
             "MinAmmoCapacity": 20,
@@ -4493,7 +4820,8 @@
             "AutoPopulateGroup": false,
             "ForceSpawnAllSubPools": false,
             "IDOverride": [
-              "C601"
+              "M16",
+              "M16A1"
             ],
             "Eras": [],
             "Sets": [
@@ -4513,84 +4841,162 @@
             "PowerupTypes": [],
             "ThrownTypes": [],
             "ThrownDamageTypes": [],
-            "SubGroups": []
-          },
-          {
-            "Category": "Firearm",
-            "Rarity": 0.7,
-            "RequiredQuest": null,
-            "ItemsToSpawn": 1,
-            "MinAmmoCapacity": 20,
-            "MaxAmmoCapacity": 30,
-            "NumMagsSpawned": 3,
-            "NumClipsSpawned": 3,
-            "NumRoundsSpawned": 8,
-            "SpawnMagAndClip": false,
-            "BespokeAttachmentChance": 0.5,
-            "IsCompatibleMagazine": false,
-            "AutoPopulateGroup": false,
-            "ForceSpawnAllSubPools": false,
-            "IDOverride": [
-              "Stoner63AR"
-            ],
-            "Eras": [],
-            "Sets": [
-              "Real"
-            ],
-            "Sizes": [],
-            "Actions": [],
-            "Modes": [],
-            "ExcludedModes": [],
-            "FeedOptions": [],
-            "MountsAvailable": [],
-            "RoundPowers": [],
-            "Features": [],
-            "MeleeStyles": [],
-            "MeleeHandedness": [],
-            "MountTypes": [],
-            "PowerupTypes": [],
-            "ThrownTypes": [],
-            "ThrownDamageTypes": [],
-            "SubGroups": []
-          },
-          {
-            "Category": "Firearm",
-            "Rarity": 0.8,
-            "RequiredQuest": null,
-            "ItemsToSpawn": 1,
-            "MinAmmoCapacity": 20,
-            "MaxAmmoCapacity": 30,
-            "NumMagsSpawned": 3,
-            "NumClipsSpawned": 3,
-            "NumRoundsSpawned": 8,
-            "SpawnMagAndClip": false,
-            "BespokeAttachmentChance": 0.5,
-            "IsCompatibleMagazine": false,
-            "AutoPopulateGroup": false,
-            "ForceSpawnAllSubPools": false,
-            "IDOverride": [
-              "vault_xm117e2",
-              "vault_gau-5aa"
-            ],
-            "Eras": [],
-            "Sets": [
-              "Real"
-            ],
-            "Sizes": [],
-            "Actions": [],
-            "Modes": [],
-            "ExcludedModes": [],
-            "FeedOptions": [],
-            "MountsAvailable": [],
-            "RoundPowers": [],
-            "Features": [],
-            "MeleeStyles": [],
-            "MeleeHandedness": [],
-            "MountTypes": [],
-            "PowerupTypes": [],
-            "ThrownTypes": [],
-            "ThrownDamageTypes": [],
-            "SubGroups": []
+            "SubGroups": [
+              {
+                "Category": "Firearm",
+                "Rarity": 0.8,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": 20,
+                "MaxAmmoCapacity": 30,
+                "NumMagsSpawned": 3,
+                "NumClipsSpawned": 3,
+                "NumRoundsSpawned": 8,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.5,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "Colt_XM177_643221"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": [
+                  {
+                    "Category": "Firearm",
+                    "Rarity": 0.6,
+                    "RequiredQuest": null,
+                    "ItemsToSpawn": 1,
+                    "MinAmmoCapacity": 20,
+                    "MaxAmmoCapacity": 30,
+                    "NumMagsSpawned": 3,
+                    "NumClipsSpawned": 3,
+                    "NumRoundsSpawned": 8,
+                    "SpawnMagAndClip": false,
+                    "BespokeAttachmentChance": 0.5,
+                    "IsCompatibleMagazine": false,
+                    "AutoPopulateGroup": false,
+                    "ForceSpawnAllSubPools": false,
+                    "IDOverride": [
+                      "Colt_607_Receiver_34213"
+                    ],
+                    "Eras": [],
+                    "Sets": [
+                      "Real"
+                    ],
+                    "Sizes": [],
+                    "Actions": [],
+                    "Modes": [],
+                    "ExcludedModes": [],
+                    "FeedOptions": [],
+                    "MountsAvailable": [],
+                    "RoundPowers": [],
+                    "Features": [],
+                    "MeleeStyles": [],
+                    "MeleeHandedness": [],
+                    "MountTypes": [],
+                    "PowerupTypes": [],
+                    "ThrownTypes": [],
+                    "ThrownDamageTypes": [],
+                    "SubGroups": []
+                  }
+                ]
+              },
+              {
+                "Category": "Firearm",
+                "Rarity": 0.5,
+                "RequiredQuest": null,
+                "ItemsToSpawn": 1,
+                "MinAmmoCapacity": 20,
+                "MaxAmmoCapacity": 30,
+                "NumMagsSpawned": 3,
+                "NumClipsSpawned": 3,
+                "NumRoundsSpawned": 8,
+                "SpawnMagAndClip": false,
+                "BespokeAttachmentChance": 0.5,
+                "IsCompatibleMagazine": false,
+                "AutoPopulateGroup": false,
+                "ForceSpawnAllSubPools": false,
+                "IDOverride": [
+                  "C601"
+                ],
+                "Eras": [],
+                "Sets": [
+                  "Real"
+                ],
+                "Sizes": [],
+                "Actions": [],
+                "Modes": [],
+                "ExcludedModes": [],
+                "FeedOptions": [],
+                "MountsAvailable": [],
+                "RoundPowers": [],
+                "Features": [],
+                "MeleeStyles": [],
+                "MeleeHandedness": [],
+                "MountTypes": [],
+                "PowerupTypes": [],
+                "ThrownTypes": [],
+                "ThrownDamageTypes": [],
+                "SubGroups": [
+                  {
+                    "Category": "Firearm",
+                    "Rarity": 0.5,
+                    "RequiredQuest": null,
+                    "ItemsToSpawn": 1,
+                    "MinAmmoCapacity": 20,
+                    "MaxAmmoCapacity": 30,
+                    "NumMagsSpawned": 3,
+                    "NumClipsSpawned": 3,
+                    "NumRoundsSpawned": 8,
+                    "SpawnMagAndClip": false,
+                    "BespokeAttachmentChance": 0.5,
+                    "IsCompatibleMagazine": false,
+                    "AutoPopulateGroup": false,
+                    "ForceSpawnAllSubPools": false,
+                    "IDOverride": [
+                      "Ult_ar15_proto"
+                    ],
+                    "Eras": [],
+                    "Sets": [
+                      "Real"
+                    ],
+                    "Sizes": [],
+                    "Actions": [],
+                    "Modes": [],
+                    "ExcludedModes": [],
+                    "FeedOptions": [],
+                    "MountsAvailable": [],
+                    "RoundPowers": [],
+                    "Features": [],
+                    "MeleeStyles": [],
+                    "MeleeHandedness": [],
+                    "MountTypes": [],
+                    "PowerupTypes": [],
+                    "ThrownTypes": [],
+                    "ThrownDamageTypes": [],
+                    "SubGroups": []
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -4598,7 +5004,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_fabattlerifle.png",
+      "IconName": "north_fabattlerifle.png",
       "TokenCost": 10,
       "TokenCostLimited": 10,
       "MinLevelAppears": 3,
@@ -4686,7 +5092,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_fabattlerifle.png",
+      "IconName": "south_fabattlerifle.png",
       "TokenCost": 10,
       "TokenCostLimited": 10,
       "MinLevelAppears": 3,
@@ -4774,7 +5180,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_hassaultrifle.png",
+      "IconName": "north_hassaultrifle.png",
       "TokenCost": 12,
       "TokenCostLimited": 12,
       "MinLevelAppears": 3,
@@ -4862,7 +5268,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_hbattlerifle.png",
+      "IconName": "south_hbattlerifle.png",
       "TokenCost": 12,
       "TokenCostLimited": 12,
       "MinLevelAppears": 3,
@@ -4911,7 +5317,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_lmmachinegun.png",
+      "IconName": "north_lmmachinegun.png",
       "TokenCost": 12,
       "TokenCostLimited": 12,
       "MinLevelAppears": 3,
@@ -4935,11 +5341,8 @@
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
           "Chattellerault",
-          "BrenLMG",
           "DP28LMG",
           "Dev_ZB26",
-          "Type96LMG",
-          "Type99LMG",
           "M1918BAR"
         ],
         "Eras": [],
@@ -4963,7 +5366,86 @@
         "SubGroups": [
           {
             "Category": "Firearm",
-            "Rarity": 0.3,
+            "Rarity": 1.0,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 20,
+            "MaxAmmoCapacity": 30,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "Type96LMG",
+              "Type99LMG"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          },
+          {
+            "Category": "Firearm",
+            "Rarity": 1.0,
+            "RequiredQuest": null,
+            "ItemsToSpawn": 1,
+            "MinAmmoCapacity": 20,
+            "MaxAmmoCapacity": 30,
+            "NumMagsSpawned": 3,
+            "NumClipsSpawned": 3,
+            "NumRoundsSpawned": 8,
+            "SpawnMagAndClip": false,
+            "BespokeAttachmentChance": 0.5,
+            "IsCompatibleMagazine": false,
+            "AutoPopulateGroup": false,
+            "ForceSpawnAllSubPools": false,
+            "IDOverride": [
+              "BrenLMG",
+              "Bren8mmExport.Billiam",
+              "ChineseAKBren.Billiam"
+            ],
+            "Eras": [],
+            "Sets": [
+              "Real"
+            ],
+            "Sizes": [],
+            "Actions": [],
+            "Modes": [],
+            "ExcludedModes": [],
+            "FeedOptions": [],
+            "MountsAvailable": [],
+            "RoundPowers": [],
+            "Features": [],
+            "MeleeStyles": [],
+            "MeleeHandedness": [],
+            "MountTypes": [],
+            "PowerupTypes": [],
+            "ThrownTypes": [],
+            "ThrownDamageTypes": [],
+            "SubGroups": []
+          },
+          {
+            "Category": "Firearm",
+            "Rarity": 0.5,
             "RequiredQuest": null,
             "ItemsToSpawn": 1,
             "MinAmmoCapacity": 20,
@@ -5001,7 +5483,7 @@
           },
           {
             "Category": "Firearm",
-            "Rarity": 0.8,
+            "Rarity": 0.7,
             "RequiredQuest": null,
             "ItemsToSpawn": 1,
             "MinAmmoCapacity": 20,
@@ -5043,7 +5525,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_lmachinegun.png",
+      "IconName": "north_lmachinegun.png",
       "TokenCost": 14,
       "TokenCostLimited": 14,
       "MinLevelAppears": 4,
@@ -5092,7 +5574,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_lmachinegun.png",
+      "IconName": "south_lmachinegun.png",
       "TokenCost": 14,
       "TokenCostLimited": 14,
       "MinLevelAppears": 4,
@@ -5141,7 +5623,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_hmmachinegun.png",
+      "IconName": "north_hmmachinegun.png",
       "TokenCost": 14,
       "TokenCostLimited": 14,
       "MinLevelAppears": 4,
@@ -5270,7 +5752,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_lmmachinegun.png",
+      "IconName": "south_lmmachinegun.png",
       "TokenCost": 14,
       "TokenCostLimited": 14,
       "MinLevelAppears": 4,
@@ -5358,7 +5840,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_baatrifle.png",
+      "IconName": "north_baatrifle.png",
       "TokenCost": 3,
       "TokenCostLimited": 3,
       "MinLevelAppears": 2,
@@ -5484,7 +5966,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_saatrifle.png",
+      "IconName": "north_saatrifle.png",
       "TokenCost": 5,
       "TokenCostLimited": 5,
       "MinLevelAppears": 3,
@@ -5572,7 +6054,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_bagrenadelauncher.png",
+      "IconName": "south_bagrenadelauncher.png",
       "TokenCost": 6,
       "TokenCostLimited": 6,
       "MinLevelAppears": 2,
@@ -5621,7 +6103,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "east_shoulderlaunchedweapon.png",
+      "IconName": "north_shoulderlaunchedweapon.png",
       "TokenCost": 8,
       "TokenCostLimited": 8,
       "MinLevelAppears": 4,
@@ -5671,7 +6153,7 @@
     },
     {
       "Type": "Firearm",
-      "IconName": "west_pagrenadelauncher.png",
+      "IconName": "south_pagrenadelauncher.png",
       "TokenCost": 8,
       "TokenCostLimited": 8,
       "MinLevelAppears": 4,
@@ -5720,7 +6202,7 @@
     },
     {
       "Type": "Equipment",
-      "IconName": "west_xm148grenadelauncher.png",
+      "IconName": "south_xm148grenadelauncher.png",
       "TokenCost": 6,
       "TokenCostLimited": 6,
       "MinLevelAppears": 3,
@@ -5743,7 +6225,7 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": true,
         "IDOverride": [
-          "XM148_553223"
+          "XM148_5532"
         ],
         "Eras": [],
         "Sets": [],
@@ -5876,7 +6358,7 @@
     },
     {
       "Type": "Equipment",
-      "IconName": "west_m203grenadelauncher.png",
+      "IconName": "south_m203grenadelauncher.png",
       "TokenCost": 6,
       "TokenCostLimited": 6,
       "MinLevelAppears": 3,
@@ -5996,7 +6478,7 @@
     },
     {
       "Type": "Equipment",
-      "IconName": "west_m7grenadelauncher.png",
+      "IconName": "south_m7grenadelauncher.png",
       "TokenCost": 5,
       "TokenCostLimited": 5,
       "MinLevelAppears": 2,
@@ -6127,7 +6609,8 @@
           "Type30_Bayonet",
           "Bayonet_Type30.Billiam",
           "Lebel1886Bayonet",
-          "AttWeaponM1917Bayonet"
+          "AttWeaponM1917Bayonet",
+          "ChassepotSword"
         ],
         "Eras": [],
         "Sets": [
@@ -6721,6 +7204,9 @@
               "PinnedGrenadeRG42",
               "PinnedGrenadeRG5",
               "Volksterism_BundleGrenade",
+              "Volksterism_RPG43Grenade",
+              "Volksterism_Type97Grenade",
+              "Volksterism_Type67ChicomGrenade",
               "Molotov"
             ],
             "Eras": [],

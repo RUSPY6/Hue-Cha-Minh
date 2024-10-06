@@ -230,14 +230,14 @@
     }
   ],
   "WeaponOptions": [
-    "Sosiggun_Scout"
+    "SosiggunR700"
   ],
   "WeaponOptionsSecondary": [
-	"Sosiggun_M1911",
-	"Sosiggun_Revolver"
+    "Sosiggun_M1911",
+    "Sosiggun_Revolver"
   ],
   "WeaponOptionsTertiary": [
-	"SosigMelee_Kabar",
+    "SosigMelee_Kabar",
     "Sosiggrenade_Smoke"
   ],
   "SecondaryChance": 1.0,
@@ -259,9 +259,9 @@
     "AutoPopulateGroup": false,
     "ForceSpawnAllSubPools": false,
     "IDOverride": [
-	  "US_Boonie2_675336",
-	  "M1_Helmet_Vietnam_54352123154521",
-	  "US_Gear_Long_Commander_424316"
+      "US_Boonie2_675336",
+      "M1_Helmet_Vietnam_54352123154521",
+      "US_Gear_Long_Commander_424316"
 	],
     "Eras": [],
     "Sets": [],

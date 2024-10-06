@@ -203,7 +203,7 @@
       "Chance_Headwear": 1.0,
       "ForceWearAllHead": false,
       "Eyewear": [
-	    "SosigSunglassesAviatorColorset1"
+        "SosigSunglassesAviatorColorset1"
 	  ],
       "Chance_Eyewear": 0.1,
       "ForceWearAllEye": false,
@@ -235,13 +235,13 @@
     }
   ],
   "WeaponOptions": [
-	"Sosiggun_M16",
+    "Sosiggun_M16",
     "Sosiggun_M1Carbine",
     "Sosiggun_Tommy"
   ],
   "WeaponOptionsSecondary": [
     "Sosiggun_M1911",
-	"Sosiggun_Revolver"
+    "Sosiggun_Revolver"
   ],
   "WeaponOptionsTertiary": [
     "Sosiggrenade_Smoke",
@@ -267,8 +267,8 @@
     "ForceSpawnAllSubPools": false,
     "IDOverride": [
       "US_Gear_Long_Commander_424316",
-	  "US_Cavhat_675336",
-	  "M18AirStrike Napalm"
+      "US_Cavhat_675336",
+      "M18AirStrike Napalm"
 	],
     "Eras": [],
     "Sets": [],

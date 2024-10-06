@@ -236,8 +236,8 @@
     "Sosiggun_M60"
   ],
   "WeaponOptionsSecondary": [
-	"Sosiggun_M1911",
-	"Sosiggun_Revolver"
+    "Sosiggun_M1911",
+    "Sosiggun_Revolver"
   ],
   "WeaponOptionsTertiary": [
     "SosigMelee_Kabar"
@@ -261,7 +261,7 @@
     "AutoPopulateGroup": false,
     "ForceSpawnAllSubPools": false,
     "IDOverride": [
-	  "US_Gear_Long_Machinegunner_424316",
+      "US_Gear_Long_Machinegunner_424316",
       "US_headgear_var1_54352123154521"
 	],
     "Eras": [],
