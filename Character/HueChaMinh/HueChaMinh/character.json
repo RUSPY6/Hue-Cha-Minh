@@ -1806,7 +1806,6 @@
           "IDOverride": [
             "PPK",
             "type94_nambu",
-            "Dev_vz38",
             "SACM1935A.Billiam",
             "C1903Hammerless",
             "HDM.Billiam",
@@ -1841,6 +1840,83 @@
           "ThrownTypes": [],
           "ThrownDamageTypes": [],
           "SubGroups": [
+            {
+              "Category": "Firearm",
+              "Rarity": 1.0,
+              "RequiredQuest": null,
+              "ItemsToSpawn": 1,
+              "MinAmmoCapacity": 6,
+              "MaxAmmoCapacity": 10,
+              "NumMagsSpawned": 3,
+              "NumClipsSpawned": 3,
+              "NumRoundsSpawned": 10,
+              "SpawnMagAndClip": false,
+              "BespokeAttachmentChance": 0.0,
+              "IsCompatibleMagazine": false,
+              "AutoPopulateGroup": false,
+              "ForceSpawnAllSubPools": false,
+              "IDOverride": [
+                "Volks_VZ38Pistol"
+              ],
+              "Eras": [],
+              "Sets": [
+                "Real"
+              ],
+              "Sizes": [],
+              "Actions": [],
+              "Modes": [],
+              "ExcludedModes": [],
+              "FeedOptions": [],
+              "MountsAvailable": [],
+              "RoundPowers": [],
+              "Features": [],
+              "MeleeStyles": [],
+              "MeleeHandedness": [],
+              "MountTypes": [],
+              "PowerupTypes": [],
+              "ThrownTypes": [],
+              "ThrownDamageTypes": [],
+              "SubGroups": [
+                {
+                  "Category": "Firearm",
+                  "Rarity": 0.0,
+                  "RequiredQuest": null,
+                  "ItemsToSpawn": 1,
+                  "MinAmmoCapacity": 6,
+                  "MaxAmmoCapacity": 10,
+                  "NumMagsSpawned": 3,
+                  "NumClipsSpawned": 3,
+                  "NumRoundsSpawned": 10,
+                  "SpawnMagAndClip": false,
+                  "BespokeAttachmentChance": 0.0,
+                  "IsCompatibleMagazine": false,
+                  "AutoPopulateGroup": false,
+                  "ForceSpawnAllSubPools": false,
+                  "IDOverride": [
+                    "Dev_vz38"
+                  ],
+                  "Eras": [],
+                  "Sets": [
+                    "Real"
+                  ],
+                  "Sizes": [],
+                  "Actions": [],
+                  "Modes": [],
+                  "ExcludedModes": [],
+                  "FeedOptions": [],
+                  "MountsAvailable": [],
+                  "RoundPowers": [],
+                  "Features": [],
+                  "MeleeStyles": [],
+                  "MeleeHandedness": [],
+                  "MountTypes": [],
+                  "PowerupTypes": [],
+                  "ThrownTypes": [],
+                  "ThrownDamageTypes": [],
+                  "SubGroups": []
+                }
+              ]
+            },
             {
               "Category": "Firearm",
               "Rarity": 1.0,
