@@ -4858,7 +4858,7 @@
                 "AutoPopulateGroup": false,
                 "ForceSpawnAllSubPools": false,
                 "IDOverride": [
-                  "Colt_XM177_643221"
+                  "vault_xm177e2"
                 ],
                 "Eras": [],
                 "Sets": [
@@ -4895,7 +4895,7 @@
                     "AutoPopulateGroup": false,
                     "ForceSpawnAllSubPools": false,
                     "IDOverride": [
-                      "Colt_607_Receiver_34213"
+                      "vault_colt607"
                     ],
                     "Eras": [],
                     "Sets": [

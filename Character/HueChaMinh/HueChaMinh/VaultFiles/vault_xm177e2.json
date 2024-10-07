@@ -1,0 +1,127 @@
+{
+  "FileName": "vault_xm177e2",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -5.0,
+  "SpeedForward": 4.0,
+  "SpringStiffness": 200.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": 90.0,
+      "ModeType": "Safe",
+      "BurstAmount": 3
+    },
+    {
+      "SelectorPosition": 0.0,
+      "ModeType": "Single",
+      "BurstAmount": 3
+    },
+    {
+      "SelectorPosition": -90.0,
+      "ModeType": "FullAuto",
+      "BurstAmount": 3
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "Colt_XM177_643221",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False",
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0",
+        "ModulBarrel": "Retro Pencil 11.5 Barrel",
+        "ModulHandguard": "6 Hole Handguard Delta Ring Skiny",
+        "ModulStock": "Retro Car 15 Stock",
+        "ModulBolts_AR15": "M16 BOLT CARRIER",
+        "ModulChamber_AR": "5.56x45mm",
+        "ModulCharging_AR15": "AR15 Std Charging Handel",
+        "ModulGrips_AR": "Retro A1 Pistol Grip",
+        "ModulUppers_AR": "Retro_M16A1_Upper",
+        "ModulCatches_AR": "STD Bolt Catch",
+        "ModulTriggers_AR": "R M16 TRIGGER",
+        "ModulReleases_AR": "STD AR Release",
+        "ModulSelectors_AR": "STD Selector",
+        "ModulTriggerGuards_AR": "AR_FLAT_GUARD",
+        "ModulEndplates_AR": "AR15 Endplate",
+        "ModulMagwells_AR": "No Magwell",
+        "ModulGasBlocks_AR": "AR-15 STD FSB Pencil",
+        "ModulDustcover_AR15": "STD AR Dust Cover",
+        "ModulFowardAssest_AR15": "TearDrop",
+        "A1_Lower/Lowers": "XM177_GRAY",
+        "Barrels_AR15/Retro Pencil 11.5 Barrel": "Default",
+        "Bolts_AR15/M16 BOLT CARRIER": "Default",
+        "BufferTubes_AR/Retro Car 15 Stock": "CARStock_Aluminum",
+        "Catches_AR/STD Bolt Catch": "Catches_AR_Gray",
+        "Chamber_AR/5.56x45mm": "Default",
+        "Charging_AR15/AR15 Std Charging Handel": "Charging_H_Gray",
+        "Dustcover_AR15/STD AR Dust Cover": "Dustcover_Gray",
+        "Endplates_AR/AR15 Endplate": "Default",
+        "FowardAssest_AR15/TearDrop": "FowardAssest_gray",
+        "GasBlocks_AR/AR-15 STD FSB Pencil": "Default",
+        "Grips_AR/Retro A1 Pistol Grip": "A1_Grip_Black",
+        "Handguards_AR/6 Hole Handguard Delta Ring Skiny": "6 Hole Handguard Delta Ring Skiny",
+        "Magwells_AR/No Magwell": "Default",
+        "Releases_AR/STD AR Release": "Mag_R_Gray",
+        "Selectors_AR/STD Selector": "Selectors_Gray",
+        "TriggerGuards_AR/AR_FLAT_GUARD": "TriggerGuards_Gray",
+        "Triggers_AR/R M16 TRIGGER": "Default",
+        "Uppers_AR/Retro_M16A1_Upper": "A1_Upper_Gray"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "XM177_Muzzle_7432123",
+      "PosOffset": {
+        "x": 1.1920929E-07,
+        "y": 0.05550003,
+        "z": 0.4381504
+      },
+      "OrientationForward": {
+        "x": 3.10713136E-15,
+        "y": 2.38302476E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.60772062E-08,
+        "y": 1.0,
+        "z": -2.38302476E-07
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {
+        "IsKinematicLocked": "False",
+        "IsPickupLocked": "False",
+        "QuickBeltSpecialStateEngaged": "False"
+      }
+    }
+  ]
+}
