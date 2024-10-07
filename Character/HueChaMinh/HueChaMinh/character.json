@@ -1820,8 +1820,6 @@
             "Hamada2.Billiam",
             "FN1903.Billiam",
             "cz27.Billiam",
-            "Dev_Type14",
-            "MAIN_Type14",
             "WelrodMkIIa"
           ],
           "Eras": [],
@@ -1843,6 +1841,84 @@
           "ThrownTypes": [],
           "ThrownDamageTypes": [],
           "SubGroups": [
+            {
+              "Category": "Firearm",
+              "Rarity": 1.0,
+              "RequiredQuest": null,
+              "ItemsToSpawn": 1,
+              "MinAmmoCapacity": 6,
+              "MaxAmmoCapacity": 10,
+              "NumMagsSpawned": 3,
+              "NumClipsSpawned": 3,
+              "NumRoundsSpawned": 10,
+              "SpawnMagAndClip": false,
+              "BespokeAttachmentChance": 0.0,
+              "IsCompatibleMagazine": false,
+              "AutoPopulateGroup": false,
+              "ForceSpawnAllSubPools": false,
+              "IDOverride": [
+                "MAIN_Type14",
+                "Type14_Late"
+              ],
+              "Eras": [],
+              "Sets": [
+                "Real"
+              ],
+              "Sizes": [],
+              "Actions": [],
+              "Modes": [],
+              "ExcludedModes": [],
+              "FeedOptions": [],
+              "MountsAvailable": [],
+              "RoundPowers": [],
+              "Features": [],
+              "MeleeStyles": [],
+              "MeleeHandedness": [],
+              "MountTypes": [],
+              "PowerupTypes": [],
+              "ThrownTypes": [],
+              "ThrownDamageTypes": [],
+              "SubGroups": [
+                {
+                  "Category": "Firearm",
+                  "Rarity": 0.0,
+                  "RequiredQuest": null,
+                  "ItemsToSpawn": 1,
+                  "MinAmmoCapacity": 6,
+                  "MaxAmmoCapacity": 10,
+                  "NumMagsSpawned": 3,
+                  "NumClipsSpawned": 3,
+                  "NumRoundsSpawned": 10,
+                  "SpawnMagAndClip": false,
+                  "BespokeAttachmentChance": 0.0,
+                  "IsCompatibleMagazine": false,
+                  "AutoPopulateGroup": false,
+                  "ForceSpawnAllSubPools": false,
+                  "IDOverride": [
+                    "Dev_Type14"
+                  ],
+                  "Eras": [],
+                  "Sets": [
+                    "Real"
+                  ],
+                  "Sizes": [],
+                  "Actions": [],
+                  "Modes": [],
+                  "ExcludedModes": [],
+                  "FeedOptions": [],
+                  "MountsAvailable": [],
+                  "RoundPowers": [],
+                  "Features": [],
+                  "MeleeStyles": [],
+                  "MeleeHandedness": [],
+                  "MountTypes": [],
+                  "PowerupTypes": [],
+                  "ThrownTypes": [],
+                  "ThrownDamageTypes": [],
+                  "SubGroups": []
+                }
+              ]
+            },
             {
               "Category": "Firearm",
               "Rarity": 0.6,
