@@ -23,12 +23,14 @@
     - **Endless and Limited Ammo modes have now been balanced!**
         - Endless shouldn't be stupidly easy anymore, as Endless Holds now feature unique encryptions and increased Sosig spawns
         - Ammo and Grenades now spawn in much larger quantities 
+    - Fixed Stoner 63 AR not spawning with proprietary magazine
     - Replaced Sniper Sosig's Scout rifle for the new R700 Sosiggun
     - Removed FMK2 grenade from *Combat Grenades*
     - Removed Potatoes' AKMS from *Northern Assault Rifles*
     - Removed M1918 BAR from *Southern Heavy Battle-rifles*
     - Made guns and equipment that either saw limited or theoretic use in the conflicts, rarer spawns, including the:
         - PzB 39, PTRS-41, FG-42, Type 97, Type 11, AR-10, MAS 49/56, C601, Stoner 63 AR, G41(W), and way too many more to list...
+
 
 #### Metadata:
 - Added the new supported mods in the Recommended Mods section
