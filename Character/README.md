@@ -13,11 +13,11 @@ Instead of a single lootpool for each category of equipment, lootpools are inste
 - Sosig load-outs and their clothing choices have been tweaked to represent real-world U.S. and ARVN soldiers better, but still retain their body armor
 - Grenadiers and Combat Engineers, armed with grenade launchers and flamethrowers respectively, become much more prominent during late-game
 
-#### Optional Lite Progression
+### Optional Lite Progression
 - Looking for a more arcadey 'Nam experience? Try out the included "Lite Progression" version, featuring:
-    - Traditional equipment pools, combining both Eastern and Western equipment, similar to vanilla characters!
+    - Combined Northern and Southern equipment pools, identical to vanilla characters!
     - Exemption from equipment rarity, you're just as likely to get an FG-42 as you are an M60!
-    - Simplified categorization of weapon types; equipment pools such as *Heavy Battle Rifles* and *Full Auto Battle Rifles* have now been combined!
+    - Simplified categorization of weapon types; similar equipment pools such as *Heavy Battle Rifles* and *Full Auto Battle Rifles* have now been combined!
 
 ### Recommended Mods
 
@@ -104,9 +104,9 @@ Instead of a single lootpool for each category of equipment, lootpools are inste
 
 </details>
 
-- *Recommended mods greatly diversify the weapon pools as using the bare minimum requirements can lead to the pools being somewhat barren, especially in later holds.*
+- *Recommended mods greatly diversify the weapon pools as using the bare minimum requirements can lead to the pools being somewhat barren, especially in later holds*
 
-A modpack that automatically downloads all of the recommended mods can be found [here.](https://thunderstore.io/c/h3vr/p/DootyEnjoyer6/Hue_Cha_Minh_Content_Pack/)
+A modpack that automatically downloads all of the recommended mods can be found [here](https://thunderstore.io/c/h3vr/p/DootyEnjoyer6/Hue_Cha_Minh_Content_Pack/)
 
 ### Optional Mods
 
@@ -147,8 +147,18 @@ A modpack that automatically downloads all of the recommended mods can be found 
 
 </details>
 
-- *Optional mods provides much-needed quality-of-life tweaks and immersion enhancements to Take n' Hold but aren't necessary. Pick and choose as you please.*
+- *Optional mods provides much-needed quality-of-life tweaks and immersion enhancements to Take n' Hold but aren't necessary. Pick and choose as you please*
 
 **I highly suggest the use of most, if not all, of the recommended and optional mods!**
 
-###### *(Do you have feedback, bug reports, or questions regarding me or my mods? Please, friend and DM my Discord, "ruspy6", or ping "DootyEnjoyer6" in the H3VR Homebrew Discord Server!)*
+### Acknowledgements
+
+<details>
+  <summary>Show Acknowledgements</summary>
+
+- Tripwire Interactive and Antimatter Games' Rising Storm 2: Vietnam for the basis of this mod's thumbnail
+- [Vohnyshche](https://thunderstore.io/c/h3vr/p/Vohnyshche/), [Skyes_Mods](https://thunderstore.io/c/h3vr/p/Skyes_Mods/), and [Mac](https://thunderstore.io/c/h3vr/p/mac/) for their wonderful characters and inspiration
+
+</details>
+
+###### *(Do you have feedback, bug reports, or questions regarding my mods? Get in contact via creating a bug report submission and pinging @ruspy6 in the [H3VR Homebrew Discord](https://discord.gg/83yTrfr))*
